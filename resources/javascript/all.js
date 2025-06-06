@@ -15,7 +15,7 @@
       // [NOT USED CURRENTLY; GSR remnant] edition: [OPTIONAL] restricts the announcement to a specific edition, possible values are: 3rd || 2nd, announcements are global by default
       msg : [
         {
-          content : "Quartet Study Resources is currently under development, so not all exercises are available yet. We'll be adding new content periodically, however, so be sure to check back often! You can follow our development progress <a href='#TODO'>here</a>."
+          content : "Quartet Study Resources is currently under development, so not all exercises are available yet. We'll be adding new content periodically, however, so be sure to check back often! You can follow our development progress <a href='https://github.com/SethClydesdale/quartet-study-resources/issues/1' target='_blank'>here</a>."
         },
       
         {
