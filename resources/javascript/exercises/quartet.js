@@ -12,6 +12,7 @@ window.GenkiExercises = [
   'lesson-1/kanji-vocab-2|漢字の単語：愛、紹、介、得、就、職、受、葉、将、難、助、夢、身|別冊p.29-30',
   'lesson-1/kanji-vocab-3|漢字の単語：決、法、苦、由、性、格、講、演、必、簡、単、標|別冊p.30-32',
   'lesson-1/kanji-vocab-4|漢字の単語：技、要、尊、敬、氷、干、毛、老、姓、紅、帳、郊、凍、招|別冊p.32, 58',
+  'lesson-1/kaiwa-1|会話：新しいルームメート|p.19-20',
   'lesson-1/chokai-1|聴解：ジブリ美術館|p.29',
   'lesson-1/chokai-2|聴解：店員へのあいさつ|p.30',
   'lesson-1/workbook-1|読み物1：〇×チェック|p.9; A',
