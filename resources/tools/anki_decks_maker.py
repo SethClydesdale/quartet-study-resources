@@ -124,7 +124,7 @@ ruby:hover rt {
 
     combined_deck = genanki.Deck(
         1810167044,  # Random hardcoded id
-        f'Quartet')
+        f'Quartet All Vocabulary')
     combined_deck.add_model(my_model)
 
     decks = [combined_deck]
@@ -133,7 +133,7 @@ ruby:hover rt {
         lesson_number = lesson_folder.name.split('-')[-1]
         my_deck = genanki.Deck(
             1810167044 + int(lesson_number),  # Random hardcoded id
-            f'Quartet lesson {lesson_number}')
+            f'Quartet Lesson {lesson_number} Vocabulary')
         my_deck.add_model(my_model)
         decks.append(my_deck)
         
