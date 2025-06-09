@@ -13,6 +13,7 @@ window.GenkiExercises = [
   'lesson-1/kanji-vocab-3|漢字の単語：決、法、苦、由、性、格、講、演、必、簡、単、標|別冊p.30-32',
   'lesson-1/kanji-vocab-4|漢字の単語：技、要、尊、敬、氷、干、毛、老、姓、紅、帳、郊、凍、招|別冊p.32, 58',
   'lesson-1/kaiwa-1|会話：新しいルームメート|p.19-20',
+  'lesson-1/kaiwa-2|会話：授業の前に|p.25-26',
   'lesson-1/chokai-1|聴解：ジブリ美術館|p.29',
   'lesson-1/chokai-2|聴解：店員へのあいさつ|p.30',
   'lesson-1/workbook-1|読み物1：〇×チェック|p.9; A',
@@ -39,6 +40,9 @@ window.GenkiExercises = [
   'lesson-1/workbook-22|初級文法チェック2：そうだ／らしい／ようだ／みたいだ・その3|p.88',
   'lesson-1/workbook-23|漢字チャレンジ1：形が似ている漢字|p.99',
   'lesson-1/workbook-24|漢字チャレンジ2：音符|p.100',
+  
+  // Lesson 2
+  'lesson-2/vocab-1|単語：読み物1・その1|別冊p.6',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
