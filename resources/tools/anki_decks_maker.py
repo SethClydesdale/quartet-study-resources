@@ -79,7 +79,8 @@ def main():
         css="""
 .question-side { font-size:48px; }
 .sentence { font-size:32px; }
-.main-color { color:#0096D6 }
+.main-color { color:#0096D6; }
+.ul-color { border-bottom:2px solid #0096D6; }
 hr {
   border:none;
   border-bottom:1px solid #999;
