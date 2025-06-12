@@ -89,6 +89,11 @@ body {
 }
 
 p { font-size:14px; }
+
+ol.alpha {
+  list-style-type:lower-alpha; 
+}
+
 ul { padding-left:40px; }
 
 ul.triangle {
@@ -2073,7 +2078,7 @@ ruby.standard rt, .underline-field > span ruby rt {
 }
 
 /* read-only questions */
-#exercise .text-passage {
+.text-passage {
   font-size:16px;
   text-align:left;
   width:80%;
@@ -2129,14 +2134,14 @@ ruby.standard rt, .underline-field > span ruby rt {
   overflow-x:auto;
 }
 
-.text-block .sub-section {
+.sub-section {
   background-color:#FFF;
   border:1px solid #DDD;
   padding:6px;
   margin:5px;
 }
 
-.text-block　.sub-section .sub-section {
+.sub-section .sub-section {
   background-color:rgba(0, 0, 0, 0.05);
   border-color:rgba(0, 0, 0, 0.08);
 }
@@ -3268,6 +3273,23 @@ input:checked + .genki_pseudo_checkbox:after { font-size:14px; }
 #quick-search-results .page-data, #genki-modal-content .workbook-title .page-data {
   position:absolute;
   right:3px;
+}
+
+.section-highlight {
+  border-right:3px solid #0096D6;
+  padding-right:5px;
+  position:relative;
+}
+.section-highlight[data-label] { margin-right:40px; }
+
+.section-highlight:before {
+  content:attr(data-label);
+  color:#0096D6;
+  font-weight:bold;
+  position:absolute;
+  right:-40px;
+  top:30%;
+  top:calc(50% - 12px);
 }
 
 .example {

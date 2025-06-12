@@ -39,7 +39,7 @@ a, code {
 
 body, #quick-jisho-window, .strat-title, .underline-field > span, .alpha-selection { background-color:#161616; }
 
-code, input[type="text"], input[type="number"], textarea, select, .table td, .quiz-multi-answer, .text-block .sub-section, .show-bg .problem-answer, .show-bg .secondary-answer, input.writing-zone-input, .genki_pseudo_checkbox, .genki_pseudo_radio {
+code, input[type="text"], input[type="number"], textarea, select, .table td, .quiz-multi-answer, .sub-section, .show-bg .problem-answer, .show-bg .secondary-answer, input.writing-zone-input, .genki_pseudo_checkbox, .genki_pseudo_radio {
   background-color:#1A1A1A;
 }
 
@@ -65,7 +65,7 @@ code, input[type="text"], input[type="number"], textarea, select, .table td, .qu
 
 
 /* 3. BORDER COLORS */
-code, input[type="text"], input[type="number"], textarea, select, .table td, .quiz-column-title, .verb-quiz .quiz-answer-zone:not(:empty), .verb-quiz.quiz-over [data-mistakes="0"], #quick-search-results, .dict-search-results, .quiz-item, .quiz-answer-zone:empty, #exercise-list, #exercise-list .lesson-title, #exercise-list ul, .quiz-over [data-mistakes="0"] .quiz-item, input.writing-zone-input, .writing-quiz.quiz-over [data-mistakes="0"], .question-block, .quiz-multi-question, .quiz-multi-question .lesson-image img, .quiz-multi-answer, .text-block, .text-block .sub-section, .show-bg .problem-answer, .show-bg .secondary-answer, #result-list, .result-row, #study-tool-ui .item-row.question-row, .genki_pseudo_checkbox, .genki_pseudo_radio, #quick-jisho-window, .lesson-summary, .kanji-canvas, .random-exercise-list, .alpha-selection {
+code, input[type="text"], input[type="number"], textarea, select, .table td, .quiz-column-title, .verb-quiz .quiz-answer-zone:not(:empty), .verb-quiz.quiz-over [data-mistakes="0"], #quick-search-results, .dict-search-results, .quiz-item, .quiz-answer-zone:empty, #exercise-list, #exercise-list .lesson-title, #exercise-list ul, .quiz-over [data-mistakes="0"] .quiz-item, input.writing-zone-input, .writing-quiz.quiz-over [data-mistakes="0"], .question-block, .quiz-multi-question, .quiz-multi-question .lesson-image img, .quiz-multi-answer, .text-block, .sub-section, .show-bg .problem-answer, .show-bg .secondary-answer, #result-list, .result-row, #study-tool-ui .item-row.question-row, .genki_pseudo_checkbox, .genki_pseudo_radio, #quick-jisho-window, .lesson-summary, .kanji-canvas, .random-exercise-list, .alpha-selection {
   border-color:#333;
 }
 
@@ -115,7 +115,7 @@ img:hover, a:focus img,
   border-color:rgba(51, 51, 51, 0.7);
 }
 
-.text-block　.sub-section .sub-section {
+.sub-section .sub-section {
   background-color:rgba(255, 255, 255, 0.02);
   border-color:rgba(255, 255, 255, 0.05);
 }
