@@ -1862,7 +1862,7 @@ ruby {
   position:relative;
   bottom:-16px;
   margin:-16px 0 16px 0;*/
-  vertical-align:top;
+  vertical-align:text-top;
   /* END   ruby-position:under; hack */
 }
 
@@ -3279,6 +3279,7 @@ input:checked + .genki_pseudo_checkbox:after { font-size:14px; }
   border-right:3px solid #0096D6;
   padding-right:5px;
   position:relative;
+  border-radius:5px;
 }
 .section-highlight[data-label] { margin-right:40px; }
 
