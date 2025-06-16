@@ -46,6 +46,9 @@ window.GenkiExercises = [
   'lesson-2/vocab-2|単語：読み物1・その2|別冊p.6',
   'lesson-2/vocab-3|単語：読み物2・その1|別冊p.8',
   'lesson-2/vocab-4|単語：読み物2・その2|別冊p.8-9',
+  'lesson-2/kanji-1|漢字の練習：読み方|別冊p.33-37, 59',
+  'lesson-2/kanji-2|漢字の練習：意味|別冊p.233-37, 59',
+  'lesson-2/kanji-3|漢字の練習：書き順|別冊p.33-37, 59',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
