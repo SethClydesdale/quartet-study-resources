@@ -268,6 +268,12 @@ input[type="text"]:focus, input[type="number"]:focus, textarea:focus, select:foc
 .box-color.spaced {
   margin:10px 3px;
 }
+.box-color.padded {
+  padding:5px;
+}
+.box-color.min-width {
+  min-width:300px;
+}
 .box-color.inline {
   display:inline;
   padding:0px 3px;
@@ -2083,6 +2089,11 @@ ruby.standard rt, .underline-field > span ruby rt {
   text-align:left;
   width:80%;
   overflow:auto;
+  padding:25px;
+  margin:15px auto;
+}
+
+.text-passage.sub-section {
   padding:25px;
   margin:15px auto;
 }
