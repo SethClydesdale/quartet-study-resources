@@ -53,6 +53,8 @@ window.GenkiExercises = [
   'lesson-2/kanji-vocab-2|漢字の単語：異、役、申、込、忙、突、然、訳、返、季、節、礼、拝、啓、暑、頃|別冊p.34-35',
   'lesson-2/kanji-vocab-3|漢字の単語：過、短、期、科、準、備、合、解、深、公、園、酒、居、達|別冊p.35-37',
   'lesson-2/kanji-vocab-4|漢字の単語：誘、機、具、倍、伺、憶、停、健、林、森、杯、柔、植|別冊p.37, 59',
+  'lesson-2/kaiwa-1|会話：推薦状のお願い|p.53-54',
+  'lesson-2/kaiwa-2|会話：インターンシップの後で|p.59-60',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
