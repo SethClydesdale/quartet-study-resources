@@ -55,6 +55,7 @@ window.GenkiExercises = [
   'lesson-2/kanji-vocab-4|漢字の単語：誘、機、具、倍、伺、憶、停、健、林、森、杯、柔、植|別冊p.37, 59',
   'lesson-2/kaiwa-1|会話：推薦状のお願い|p.53-54',
   'lesson-2/kaiwa-2|会話：インターンシップの後で|p.59-60',
+  'lesson-2/chokai-1|聴解：お花見旅行の相談|p.64',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
