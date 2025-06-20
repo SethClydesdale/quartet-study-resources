@@ -203,7 +203,7 @@ code {
 }
 
 /* input fields */
-input[type="text"], input[type="number"], textarea, select {
+input[type="text"], input[type="number"], textarea, select, .pseudo-input {
   font-size:14px;
   font-family:'メイリオ', 'Meiryo', 'Osaka', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Arial, sans-serif;
   background:#FFF;
@@ -211,6 +211,7 @@ input[type="text"], input[type="number"], textarea, select {
   padding:6px;
   outline:none;
 }
+.pseudo-input { display:inline-block; }
 select { cursor:pointer; }
 input[type="text"]:disabled, input[type="number"]:disabled, textarea:disabled, select:disabled { color:#333; }
 input[type="text"]::placeholder, input[type="number"]::placeholder, textarea::placeholder { color:#BBB; }
