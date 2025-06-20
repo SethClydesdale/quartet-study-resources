@@ -56,6 +56,9 @@ window.GenkiExercises = [
   'lesson-2/kaiwa-1|会話：推薦状のお願い|p.53-54',
   'lesson-2/kaiwa-2|会話：インターンシップの後で|p.59-60',
   'lesson-2/chokai-1|聴解：お花見旅行の相談|p.64',
+  'lesson-2/chokai-2|聴解：目上の人をほめること|p.65',
+  'lesson-2/workbook-1|読み物1：〇×チェック|p.21; A',
+  'lesson-2/workbook-2|読み物1：読みのストラテジーの練習|p.21; B',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
