@@ -59,6 +59,8 @@ window.GenkiExercises = [
   'lesson-2/chokai-2|聴解：目上の人をほめること|p.65',
   'lesson-2/workbook-1|読み物1：〇×チェック|p.21; A',
   'lesson-2/workbook-2|読み物1：読みのストラテジーの練習|p.21; B',
+  'lesson-2/workbook-3|読み物1：内容質問|p.22; C',
+  //'lesson-2/workbook-4|読み物1：〇×チェック|p.23; A',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
