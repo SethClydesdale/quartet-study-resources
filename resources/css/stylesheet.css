@@ -2324,7 +2324,7 @@ ruby.standard rt, .underline-field > span ruby rt {
   color:#0096d6;
   font-weight:bold;
   font-size:18px;
-  margin-right:6px;
+  margin:0 6px 0 -28px;
   cursor:default;
 }
 
@@ -2333,6 +2333,7 @@ ruby.standard rt, .underline-field > span ruby rt {
 .sectionDesc {
   font-size:15px;
   font-weight:bold;
+  padding-left:28px;
 }
 .sectionDesc ruby { vertical-align:text-top; }
 
