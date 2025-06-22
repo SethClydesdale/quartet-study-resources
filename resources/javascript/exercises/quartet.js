@@ -60,7 +60,12 @@ window.GenkiExercises = [
   'lesson-2/workbook-1|読み物1：〇×チェック|p.21; A',
   'lesson-2/workbook-2|読み物1：読みのストラテジーの練習|p.21; B',
   'lesson-2/workbook-3|読み物1：内容質問|p.22; C',
-  //'lesson-2/workbook-4|読み物1：〇×チェック|p.23; A',
+  'lesson-2/workbook-4|読み物2：〇×チェック|p.23; A',
+  'lesson-2/workbook-5|読み物2：読みのストラテジーの練習|p.23; B',
+  'lesson-2/workbook-6|読み物2：内容質問|p.24; C',
+  'lesson-2/workbook-7|基本練習：～てくる／～ていく|p.25',
+  'lesson-2/workbook-8|基本練習：しか～ない|p.25-26',
+  'lesson-2/workbook-9|基本練習：～ことにする|p.26',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
