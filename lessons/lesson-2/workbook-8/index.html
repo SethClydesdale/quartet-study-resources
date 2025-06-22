@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#" class="lang-en">
+  <head>
+    <meta charset="UTF-8">
+    <title>基本練習：しか～ない - 第2課 | Quartet Study Resources - 3rd Edition</title>
+    <meta name="title" content="基本練習：しか～ない - 第2課 | Quartet Study Resources - 3rd Edition">
+    <meta name="twitter:title" content="基本練習：しか～ない - 第2課 | Quartet Study Resources - 3rd Edition">
+    <meta property="og:title" content="基本練習：しか～ない - 第2課 | Quartet Study Resources - 3rd Edition">
+    <meta name="description" content="Complete the following problems.">
+    <meta property="og:description" content="Complete the following problems.">
+    <link rel="shortcut icon" type="image/x-icon" href="../../../resources/images/quartet.ico">
+
+    <meta name="keywords" content="Quartet workbook, page 25-26, japanese, quizzes, exercises" lang="en">
+    <meta name="language" content="en">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:site_name" content="sethclydesdale.github.io">
+    <meta property="og:url" content="https://sethclydesdale.github.io/quartet-study-resources/lessons/lesson-2/workbook-8/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://sethclydesdale.github.io/quartet-study-resources/resources/images/quartet-thumb.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:creator" content="@SethC1995">
+
+    <link rel="stylesheet" href="../../../resources/css/stylesheet.min.css">
+    <script src="../../../resources/javascript/head.min.js"></script>
+    <script src="../../../resources/javascript/ga.js" async></script>
+  </head>
+
+  <body>
+    
+    <header>
+      <h1><a href="../../../" id="home-link">Quartet Study Resources</a></h1>
+      <a id="fork-me" href="https://github.com/SethClydesdale/quartet-study-resources">Fork Me</a>
+    </header>
+    
+    <div id="announcement">
+      <div id="announce-inner">
+        <h3><i class="fa">&#xf0a1;</i> News and Info</h3>
+        <div id="announce-list">
+          <div id="announcement-controls" style="display:none;">
+            <button class="button announce-controls button-left" onclick="GenkiAnn.next(-1, true);"><i class="fa">&#xf060;</i></button>
+            <button class="button announce-controls button-right" onclick="GenkiAnn.next(+1, true);"><i class="fa">&#xf061;</i></button>
+          </div>
+          <noscript><div class="announcement">Please enable JavaScript to get the latest news and info.</div></noscript>
+        </div>
+      </div>
+    </div>
+    
+    <div id="content">
+      <div id="exercise" class="content-block">
+        <div id="quiz-result"></div>
+        <div id="quiz-zone" class="clear"></div>
+        <div id="quiz-timer" class="center"></div>
+      </div>
+    </div>
+    
+    <footer class="clear">
+      <ul class="footer-left">
+        <li><a href="../../../" id="footer-home">Home</a></li>
+        <li><a href="../../../privacy/">Privacy</a></li>
+        <li><a href="../../../report/">Report a Bug</a></li>
+        <li><a href="../../../help/">Help</a></li>
+        <li><a href="../../../donate/">Donate</a></li>
+      </ul>
+      
+      <ul class="footer-right">
+        <li>Created by <a href="https://github.com/SethClydesdale">Seth Clydesdale</a> and the <a href="https://github.com/SethClydesdale/quartet-study-resources/graphs/contributors">GitHub Community</a></li>
+      </ul>
+    </footer>
+    
+    <script src="../../../resources/javascript/dragula.min.js"></script>
+    <script src="../../../resources/javascript/easytimer.min.js"></script>
+    <script src="../../../resources/javascript/exercises/quartet.min.js"></script>
+    <script src="../../../resources/javascript/genki.min.js"></script>
+    <script src="../../../resources/javascript/all.min.js"></script>
+    <script>Genki.generateQuiz({
+      type : 'fill',
+      info : Genki.lang.std_written,
+      
+    quizlet : 
+      '<p class="sectionDesc3rd"><span class="sectionNumber3rd fa">&#xf054;</span>「{!GRI|しか～ない|l2-p3}」を使って、文や会話を<ruby>完成<rt>かんせい</rt></ruby>させなさい。</p>'+
+      '<div class="count-problems">'+
+        '<div class="problem">私は{マンガ|漫画|まんが|answer;hint:manga}を3({冊|さつ|answer;hint:counter;width:60})しか持っていません。</div>'+
+        
+        '<div class="problem">'+
+          '<div class="inner-problem">'+
+            '先生：プリントは全部で3枚です。みなさん、3枚ありますか。<br><br>'+
+            '学生：すみません。{2枚しかありません|2まいしかありません|' + Genki.getAlts('{二}{枚}しかありません', 'に|まい') + 'answer;hint:only have 2}。'+
+          '</div>'+
+        '</div>'+
+        
+        '<div class="problem"><ruby>昨日<rt>きのう</rt></ruby>{30分しか勉強しなかった|30ぷんしかべんきょうしなかった|' + Genki.getAlts('30{分}しか{勉強}しなかった', 'ぷん|べんきょう') + Genki.getAlts('{三十分}しか{勉強}しなかった', 'さんじゅっぷん|べんきょう') + 'answer;hint:studied for only 30 minutes}ので、今日の試験はあまりできなかった。</div>'+
+        
+        '<div class="problem">「お子様メニュー」は{子どもしか注文できない|こどもしかちゅうもんできない|' + Genki.getAlts('{子}{供}しか{注文}{出来}ない', 'こ|ども|ちゅうもん|でき') + 'answer;hint:only kids can order}。</div>'+
+        
+        '<div class="problem">'+
+          '<div class="inner-problem">'+
+            '　先生：ゴミスさん、もう日本でいろいろなところに行きましたか。<br><br>'+
+            'ゴミス：いいえ、まだ東京({に|particle})しか{行ったことがない|いったことがない|answer;hint:have gone to}ので、今度の休みはもっといろいろなところに行きたいです。'+
+          '</div>'+
+        '</div>'+
+        
+        '<div class="problem">'+
+          '<div class="inner-problem">'+
+            'A：あれ、この店<ruby>閉<rt>し</rt></ruby>まってる。朝は開いていたのに……。<br><br>'+
+            'B：夜はやっていなくて、3時{までしか開いていない|までしかあいていない|answer;hint:only open until}みたいだよ。'+
+          '</div>'+
+        '</div>'+
+        
+        '<div class="problem">'+
+          '<div class="inner-problem">'+
+            'A：家族に日本のものを送りたいんだけど、何がいいと思う？<br><br>'+
+            'B：このお菓子はどう？日本{でしか買えない|でしかかえない|answer;hint:can only be bought in;width:160}からいいと思うよ。'+
+          '</div>'+
+        '</div>'+
+      '</div>'
+    });
+    </script>
+  </body>
+</html>
