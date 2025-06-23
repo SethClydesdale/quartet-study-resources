@@ -98,7 +98,7 @@
           '<div>'+
             '<div class="problem">'+
               '<div class="inner-problem">'+
-                'ストレスで最近あまり食べられないので、<br><br>このごろ{やせてきました|痩せてきました|瘦せてきました|answer;hint:began to lose weight;spoiler;width:160}。'+
+                'ストレスで最近あまり食べられないので、<br><br>このごろ{やせてきました|痩せてきました|' + Genki.getAlts('{瘦}せてき{ました}', 'や|た') + Genki.getAlts('{痩}せてき{ました}', 'や|た') + 'answer;hint:began to lose weight;spoiler;width:160}。'+
               '</div>'+
             '</div>'+
           '</div>'+
