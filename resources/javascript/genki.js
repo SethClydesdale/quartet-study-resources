@@ -2898,7 +2898,7 @@
         if (grammar && grammar[0]) {
           if (zone) {
             // trim out grammar point number and format anchor links for use with the quick grammar review modal
-            zone.innerHTML = grammar[0].replace(/表現ノート\d+\. |\d+\. /, '').replace(/href="#(l\d+-p\d+)"/g, 'onclick="Genki.getGrammarPoint(this, \'$1\'); return false;" target="_blank" href="' + url + '#$1"');
+            zone.innerHTML = grammar[0].replace(/表現ノート\d+\. |読みのストラテジー\d+\. |\d+\.(?: |)/, '').replace(/href="#(l\d+-p\d+)"/g, 'onclick="Genki.getGrammarPoint(this, \'$1\'); return false;" target="_blank" href="' + url + '#$1"');
             zone.className = 'grammar-index';
             
             if (!/l/.test(subId)) {

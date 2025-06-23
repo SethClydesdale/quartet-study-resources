@@ -66,6 +66,9 @@ window.GenkiExercises = [
   'lesson-2/workbook-7|基本練習：～てくる／～ていく|p.25',
   'lesson-2/workbook-8|基本練習：しか～ない|p.25-26',
   'lesson-2/workbook-9|基本練習：～ことにする|p.26',
+  'lesson-2/workbook-10|基本練習：「おかげ」を使った表現|p.27',
+  'lesson-2/workbook-11|基本練習：XばXほどY|p.27',
+  'lesson-2/workbook-12|基本練習：～ことになる|p.28',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
