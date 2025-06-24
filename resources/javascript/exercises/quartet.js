@@ -68,7 +68,11 @@ window.GenkiExercises = [
   'lesson-2/workbook-9|基本練習：～ことにする|p.26',
   'lesson-2/workbook-10|基本練習：「おかげ」を使った表現|p.27',
   'lesson-2/workbook-11|基本練習：XばXほどY|p.27',
-  'lesson-2/workbook-12|基本練習：～ことになる|p.28',
+  'lesson-2/workbook-12|基本練習：～ことになる・その1|p.28; A',
+  'lesson-2/workbook-13|基本練習：～ことになる・その2|p.28; B',
+  'lesson-2/workbook-14|基本練習：まとめの練習：問題1・2|p.29',
+  'lesson-2/workbook-15|基本練習：まとめの練習：問題3|p.30',
+  'lesson-2/workbook-16|初級文法チェック3：敬語・問題1・2|p.89',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
