@@ -19,10 +19,11 @@
   -moz-osx-font-smoothing:grayscale;
 }
 
-/*
-for exercises with radicals: (place at end of <head> section)
-<style>@font-face {font-family:"Japanese Radicals";src:url(../../../resources/fonts/JapaneseRadicals-Regular.ttf) format("truetype");}</style>
-*/
+@font-face {
+  font-family:"Japanese Radicals";
+  src:url(../fonts/JapaneseRadicals-Regular.ttf) format("truetype");
+}
+
 .rad {
   font-family:"Japanese Radicals";
   font-style:normal;
