@@ -2383,7 +2383,7 @@
                 prevScore = lessonResult > -1 ? resultSpan + lessonResult +'%' +'</span>' : '';
 
             list += '<li class="menu-item-list"><a href="' + (lesson == '\\.\\.\\/' ? linkData[0] : '../../../' + Genki.ed + '/' + linkData[0] + '/') + Genki.local + Genki.debug + '" ' + (linkData[2] ? 'data-page="Quartet ' + (+linkData[0].replace(/lesson-(\d+).*/, '$1') < 7 ? 'I' : 'II') +
-              (/workbook-|wb-/.test(linkData[0]) ? ' Workbook' : '') + ': ' + linkData[2] + '"' : '') + ' title="' + linkData[1] + '">' + linkData[1] + '</a>'+ " "+  prevScore +'</li>';
+              (/workbook-|wb-/.test(linkData[0]) ? ' Workbook' : '') + ': ' + linkData[2] + '"' : '') + ' title="' + linkData[1].replace(/<.*?>/g, '') + '">' + linkData[1] + '</a>'+ " "+  prevScore +'</li>';
 
           }
 
