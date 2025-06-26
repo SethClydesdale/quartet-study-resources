@@ -76,6 +76,11 @@ window.GenkiExercises = [
   'lesson-2/workbook-17|初級文法チェック3：敬語・問題3|p.90',
   'lesson-2/workbook-18|漢字チャレンジ3：部首「にんべん（<span class="rad">⺅</span>）・ひとやね（<span class="rad">𠆢</span>）」|p.101',
   'lesson-2/workbook-19|漢字チャレンジ4：部首「きへん（<span class="rad"></span>）・き（<span class="rad">⽊</span>）」|p.102',
+  
+  // Lesson 3
+  'lesson-3/vocab-1|単語：読み物1・その1|別冊p.10',
+  'lesson-3/vocab-2|単語：読み物1・その2|別冊p.10',
+  'lesson-3/vocab-3|単語：読み物1・その3|別冊p.10-11',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
