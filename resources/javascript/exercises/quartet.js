@@ -81,6 +81,9 @@ window.GenkiExercises = [
   'lesson-3/vocab-1|単語：読み物1・その1|別冊p.10',
   'lesson-3/vocab-2|単語：読み物1・その2|別冊p.10',
   'lesson-3/vocab-3|単語：読み物1・その3|別冊p.10-11',
+  'lesson-3/vocab-4|単語：読み物2・その1|別冊p.12',
+  'lesson-3/vocab-5|単語：読み物2・その2|別冊p.12',
+  'lesson-3/vocab-6|単語：読み物2・その3|別冊p.12-13',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
