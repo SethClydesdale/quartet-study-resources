@@ -243,7 +243,6 @@ input[type="text"]:focus, input[type="number"]:focus, textarea:focus, select:foc
 }
 
 .ul-color {
-  display:inline-block;
   border-bottom:2px solid #0096D6;
 }
 .vertical-text .ul-color {
@@ -251,6 +250,7 @@ input[type="text"]:focus, input[type="number"]:focus, textarea:focus, select:foc
   border-left:2px solid #0096D6;
 }
 .ul-color.inline { display:inline; }
+.ul-color.inline-block { display:inline-block; }
 
 .label-color {
   color:#FFF;
