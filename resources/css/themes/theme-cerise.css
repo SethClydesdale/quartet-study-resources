@@ -9,7 +9,7 @@
 
 
 /* 1. COLOR 1 */
-.t-orange, .main-color, a.jump-arrow, #exercise:before, #exercise:after, .loading:before, .loading:after, .lesson-title, .title, .section-title, #exercise-title, .lesson-summary:before, .lesson-point:before, .drag-quiz .quiz-answer-zone:focus, .drag-quiz .quiz-item:focus, .kana-quiz .quiz-answer-zone:focus, .kana-quiz .quiz-item:focus, #exercise-list .lesson-title:hover, #exercise-list .lesson-title:focus, #exercise-list li a.active-lesson, #exercise-list li a:hover, #exercise-list li a:focus, #exercise-list li a:hover:before, #exercise-list li a:focus:before, .answer-correct .quiz-item:before, .drag-quiz .answer-correct .quiz-item-text:before, .writing-zone.answer-correct:after, .quiz-multi-answer:hover:before, .quiz-multi-answer:focus:before, .kanji-stroke-order .button:hover, .kanji-stroke-order .button:focus, .example-problem:before, #genki-site-settings:focus, .genki_pseudo_checkbox:after, #dictionary-modes .button.active-mode, .dictionary-index li a, #quick-jisho-results .definition:focus, #genki-modal #appendix-tool .workbook-title, #appendix-tool .workbook-title, .sub-title-color, .sectionNumber, .underline-field > span:hover, .underline-field > span:hover ~ span, .section-highlight:before {
+.t-orange, .main-color, a.jump-arrow, #exercise:before, #exercise:after, .loading:before, .loading:after, .lesson-title, .title, .section-title, #exercise-title, .lesson-summary:before, .lesson-point:before, .drag-quiz .quiz-answer-zone:focus, .drag-quiz .quiz-item:focus, .kana-quiz .quiz-answer-zone:focus, .kana-quiz .quiz-item:focus, #exercise-list .lesson-title:hover, #exercise-list .lesson-title:focus, #exercise-list li a.active-lesson, #exercise-list li a:hover, #exercise-list li a:focus, #exercise-list li a:hover:before, #exercise-list li a:focus:before, .answer-correct .quiz-item:before, .drag-quiz .answer-correct .quiz-item-text:before, .writing-zone.answer-correct:after, .quiz-multi-answer:hover:before, .quiz-multi-answer:focus:before, .kanji-stroke-order .button:hover, .kanji-stroke-order .button:focus, .example-problem:before, #genki-site-settings:focus, .genki_pseudo_checkbox:after, #dictionary-modes .button.active-mode, .dictionary-index li a, #quick-jisho-results .definition:focus, #genki-modal #appendix-tool .workbook-title, #appendix-tool .workbook-title, .sub-title-color, .sectionNumber, .underline-field > span:hover, .underline-field > span:hover ~ span, .section-highlight:before, .summary-title, .challenge:before, .strat-title {
   color:#E6237B;
 }
 
@@ -17,7 +17,7 @@
   color:#E6237B !important;
 }
 
-.button, a.button, header, #announcement, #quick-nav-list li:before, #quick-nav-list a.sub-section-button, #quick-search-results li[data-lesson]:before, #quiz-info, #exercise-list .main-title, #exercise-list li a[data-page]:hover:after, #exercise-list li a[data-page]:focus:after, #quiz-progress-bar, #complete-banner, #genki-modal-header, .genki_pseudo_radio:after, #quick-jisho-toggle, .quick-jisho-header, #appendix-tool .page-data, .grammar-index .num, .star, .tango:before, .label-color {
+.button, a.button, header, #announcement, #quick-nav-list li:before, #quick-nav-list a.sub-section-button, #quick-search-results li[data-lesson]:before, #quiz-info, #exercise-list .main-title, #exercise-list li a[data-page]:hover:after, #exercise-list li a[data-page]:focus:after, #quiz-progress-bar, #complete-banner, #genki-modal-header, .genki_pseudo_radio:after, #quick-jisho-toggle, .quick-jisho-header, #appendix-tool .page-data, .grammar-index .num, .star, .tango:before, .label-color, .page-data {
   background-color:#E6237B;
 }
 
@@ -29,7 +29,7 @@
   background:rgba(230, 35, 123, 0.3);
 }
 
-hr.main-color, input[type="text"]:focus, input[type="number"]:focus, textarea:focus, select:focus, .box-color, #quick-nav-list li ul li:before, .drag-quiz .quiz-answer-zone:focus, .drag-quiz .quiz-item:focus, .kana-quiz .quiz-answer-zone:focus, .kana-quiz .quiz-item:focus, .quiz-item.markedItem, input.writing-zone-input:focus, .kanji-canvas:focus, .quiz-multi-answer:hover, .quiz-multi-answer:focus, #quiz-progress, .example-problem:before, .fill-quiz .writing-zone-input:focus, #genki-modal-body, #light-switch:focus, .genki_pseudo_checkbox:hover, .genki_pseudo_radio:hover, .genki_pseudo_checkbox:focus, .genki_pseudo_radio:focus, #dictionary-modes .button.active-mode, .section-highlight {
+hr.main-color, input[type="text"]:focus, input[type="number"]:focus, textarea:focus, select:focus, .box-color, #quick-nav-list li ul li:before, .drag-quiz .quiz-answer-zone:focus, .drag-quiz .quiz-item:focus, .kana-quiz .quiz-answer-zone:focus, .kana-quiz .quiz-item:focus, .quiz-item.markedItem, input.writing-zone-input:focus, .kanji-canvas:focus, .quiz-multi-answer:hover, .quiz-multi-answer:focus, #quiz-progress, .example-problem:before, .fill-quiz .writing-zone-input:focus, #genki-modal-body, #light-switch:focus, .genki_pseudo_checkbox:hover, .genki_pseudo_radio:hover, .genki_pseudo_checkbox:focus, .genki_pseudo_radio:focus, #dictionary-modes .button.active-mode, .section-highlight, .challenge:before, .strat-title {
   border-color:#E6237B;
 }
 
@@ -64,7 +64,7 @@ a:focus img, .quiz-item.markedItem, .text-selection-mode .quiz-multi-answer {
   background-color:#D6136B;
 }
 
-#quick-search-results li[data-lesson]:before, #exercise-list li a[data-page]:hover:after, #exercise-list li a[data-page]:focus:after, #appendix-tool .page-data {
+#quick-search-results li[data-lesson]:before, #exercise-list li a[data-page]:hover:after, #exercise-list li a[data-page]:focus:after, .page-data {
   border-color:#D6136B;
 }
 
@@ -94,6 +94,6 @@ a.jump-arrow:hover, a.jump-arrow:focus, .dictionary-index li a:hover {
 
 
 /* 5. COLOR 5 */
-#announcement ruby rt, .workbook-title ruby rt, .main-color ruby rt, .section-title ruby rt, .lesson-title ruby rt, a ruby rt, #index-list li a ruby rt, #quick-search-results ruby rt, .sub-title-color ruby rt, .title rt {
+#announcement ruby rt, .workbook-title ruby rt, .main-color ruby rt, .section-title ruby rt, .lesson-title ruby rt, #index-list li a ruby rt, .sub-title-color ruby rt, .title rt {
   color:#A6003B;
 }
