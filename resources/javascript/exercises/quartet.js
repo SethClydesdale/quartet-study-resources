@@ -47,7 +47,7 @@ window.GenkiExercises = [
   'lesson-2/vocab-3|単語：読み物2・その1|別冊p.8',
   'lesson-2/vocab-4|単語：読み物2・その2|別冊p.8-9',
   'lesson-2/kanji-1|漢字の練習：読み方|別冊p.33-37, 59',
-  'lesson-2/kanji-2|漢字の練習：意味|別冊p.233-37, 59',
+  'lesson-2/kanji-2|漢字の練習：意味|別冊p.33-37, 59',
   'lesson-2/kanji-3|漢字の練習：書き順|別冊p.33-37, 59',
   'lesson-2/kanji-vocab-1|漢字の単語：願、冷、吹、寒、降、慣、和、実、交、流、課、伝|別冊p.33-34',
   'lesson-2/kanji-vocab-2|漢字の単語：異、役、申、込、忙、突、然、訳、返、季、節、礼、拝、啓、暑、頃|別冊p.34-35',
@@ -84,6 +84,9 @@ window.GenkiExercises = [
   'lesson-3/vocab-4|単語：読み物2・その1|別冊p.12',
   'lesson-3/vocab-5|単語：読み物2・その2|別冊p.12',
   'lesson-3/vocab-6|単語：読み物2・その3|別冊p.12-13',
+  'lesson-3/kanji-1|漢字の練習：読み方|別冊p.38-42, 60',
+  'lesson-3/kanji-2|漢字の練習：意味|別冊p.38-42, 60',
+  'lesson-3/kanji-3|漢字の練習：書き順|別冊p.38-42, 60',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
