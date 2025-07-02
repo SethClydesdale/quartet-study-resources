@@ -87,6 +87,10 @@ window.GenkiExercises = [
   'lesson-3/kanji-1|漢字の練習：読み方|別冊p.38-42, 60',
   'lesson-3/kanji-2|漢字の練習：意味|別冊p.38-42, 60',
   'lesson-3/kanji-3|漢字の練習：書き順|別冊p.38-42, 60',
+  'lesson-3/kanji-vocab-1|漢字の単語：登、訪、県、像、徴、札、録、客、報、般、約、選、頂、泊|別冊p.38-39',
+  'lesson-3/kanji-vocab-2|漢字の単語：光、参、加、予、装、限、岩、点、他、箱、汚、値、段|別冊p.39-40',
+  'lesson-3/kanji-vocab-3|漢字の単語：仲、数、求、種、類、席、普、量、放、覚、額、個、打、疲、息|別冊p.40-42',
+  'lesson-3/kanji-vocab-4|漢字の単語：抜、消、独、糖、等、印、再、検、熟、筆、駐、辞、籍|別冊p.42, 60',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
