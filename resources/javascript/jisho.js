@@ -375,6 +375,7 @@ Genki.jisho = {
     // Quartet
     { ja : "打ち上げ|うちあげ", en : "party celebrating the finish of a project, event, etc.", v : 'N', l : "Quartet: L3-読み物2" },
     { ja : "生まれ|うまれ", en : "birthplace; born in...", v : 'N-suf', l : "Quartet: L1-読み物1" },
+    { ja : "熟れる|うれる", en : "to ripen", v : 'ru-Vi', l : "Quartet: L3-漢字表" },
     
     // Tobira
     { ja : "ウイルス", en : "virus", v : "N", l : "Tobira: L8読" },
@@ -563,6 +564,7 @@ Genki.jisho = {
     { ja : "お忙しい所|おいそがしいところ", en : "while you are busy", v : 'Exp', l : "Quartet: L2-読み物1" },
     { ja : "老いる|おいる", en : "to grow old", v : 'ru-Vi', l : "Quartet: L1-漢字表" },
     { ja : "おせち料理|おせちりょうり", en : "traditional Japanese New Year dishes", v : 'N', l : "Quartet: L2-読み物1" },
+    { ja : "汚染|おせん", en : "pollution; contamination", v : 'VN', l : "Quartet: L3-漢字表" },
     { ja : "おつまみ", en : "snacks to go with alcohol", v : 'N', l : "Quartet: L3-読み物2" },
     
     // Tobira
@@ -812,6 +814,7 @@ Genki.jisho = {
     { ja : "かたい", en : "hard; firm", v : 'A', l : "Quartet: L1-読み物1" },
     { ja : "唐揚げ|からあげ", en : "fried chicken", v : 'N', l : "Quartet: L3-読み物2" },
     { ja : "変わらない|かわらない", en : "to be no different; constant; unchanged", v : 'A', l : "Quartet: L3-読み物2" },
+    { ja : "岩石|がんせき", en : "stones and rocks", v : 'N', l : "Quartet: L3-漢字表" },
     { ja : "寒暖|かんだん", en : "hot and cold", v : 'N', l : "Quartet: L2-漢字表" },
     { ja : "監督|かんとく", en : "director", v : 'N', l : "Quartet: L1-読み物1" },
     
@@ -1168,6 +1171,8 @@ Genki.jisho = {
 
   "き" : [
     // Quartet
+    { ja : "求人|きゅうじん", en : "recruitment; job offer", v : "VN", l : "Quartet: L3-漢字表" },
+    { ja : "休息|きゅうそく", en : "rest; repose", v : "VN", l : "Quartet: L3-漢字表" },
     { ja : "居住地|きょじゅうち", en : "settlement", v : "N", l : "Quartet: L2-漢字表" },
     
     // Tobira
@@ -1626,9 +1631,11 @@ Genki.jisho = {
 
   "こ" : [
     // Quartet
+    { ja : "好印象|こういんしょう", en : "good impression", v : 'N', l : "Quartet: L3-漢字表" },
     { ja : "降下|こうか", en : "descent", v : 'VN', l : "Quartet: L2-漢字表" },
     { ja : "郊外|こうがい", en : "suburbs", v : 'N', l : "Quartet: L1-漢字表" },
     { ja : "コーヒー豆|コーヒーまめ", en : "coffee beans", v : 'N', l : "Quartet: L1-会話" },
+    { ja : "国籍|こくせき", en : "nationality", v : 'N', l : "Quartet: L3-漢字表" },
     { ja : "個室|こしつ", en : "private room", v : 'N', l : "Quartet: L3-読み物2" },
     { ja : "ご来光|ごらいこう", en : "rising sun; sunrise viewed from the top of a high mountain", v : 'N', l : "Quartet: L3-読み物1" },
     { ja : "合流|こうりゅう", en : "confluence; joining", v : 'VN', l : "Quartet: L2-漢字表" },
@@ -1884,7 +1891,8 @@ Genki.jisho = {
 
   "さ" : [
     // Quartet
-    { ja : "札|ざつ", en : "bill; note", v : "N", l : "Quartet: L3-読み物1" },
+    { ja : "再検査|さいけんさ", en : "re-examination", v : "VN", l : "Quartet: L3-漢字表" },
+    { ja : "札|さつ", en : "bill; note", v : "N", l : "Quartet: L3-読み物1" },
     { ja : "残暑|ざんしょ", en : "heat of late summer", v : "N", l : "Quartet: L2-漢字表" },
     { ja : "山頂|さんちょう", en : "summit", v : "N", l : "Quartet: L3-読み物1" },
     { ja : "参拝|さんぱい", en : "visiting a shrine/temple", v : "VN", l : "Quartet: L2-漢字表" },
@@ -2053,6 +2061,7 @@ Genki.jisho = {
     { ja : "時間内|じかんない", en : "within a time frame", v : 'N', l : "Quartet: L3-読み物2" },
     { ja : "若干名|じゃっかんめい", en : "a few people; small number of people", v : 'Exp', l : "Quartet: L1-漢字表" },
     { ja : "出品する|しゅっぴんする", en : "to submit (one's work to ~)", v : 'VN', l : "Quartet: L1-読み物1" },
+    { ja : "書籍化|しょせきか", en : "compiling into book format; novelizing", v : 'VN', l : "Quartet: L3-漢字表" },
     { ja : "上旬|じょうじゅん", en : "early in the month", v : 'N', l : "Quartet: L2-読み物1" },
     { ja : "申告|しんこく", en : "declaration", v : 'VN', l : "Quartet: L2-漢字表" },
     { ja : "新年会|しんねんかい", en : "New Year party", v : 'N', l : "Quartet: L3-読み物2" },
@@ -2658,6 +2667,7 @@ Genki.jisho = {
     { ja : "姓名|せいめい", en : "full name", v : 'N', l : "Quartet: L1-漢字表" },
     { ja : "世界文化遺産|せかいぶんかいさん", en : "World's Cultural Heritage (site)", v : 'N', l : "Quartet: L3-読み物1" },
     { ja : "席に着く|せきにつく", en : "to have a seat", v : 'Exp', l : "Quartet: L3-読み物2" },
+    { ja : "全額|ぜんがく", en : "total; full amount", v : 'N', l : "Quartet: L3-漢字表" },
     { ja : "先日|せんじつ", en : "the other day", v : 'N', l : "Quartet: L2-読み物2" },
     
     // Tobira
@@ -2824,6 +2834,7 @@ Genki.jisho = {
 
   "そ" : [
     // Quartet
+    { ja : "像|ぞう", en : "elephant", v : "N", l : "Quartet: L3-漢字表" },
     { ja : "備える|そなえる", en : "to prepare", v : "ru-Vt", l : "Quartet: L2-漢字表" },
     { ja : "ソフトドリンク", en : "non-alcholic drinks", v : "N", l : "Quartet: L3-読み物2" },
     { ja : "その代わり|そのかわり", en : "instead", v : "Conj", l : "Quartet: L2-聴解" },
@@ -3132,6 +3143,7 @@ Genki.jisho = {
 
   "ち" : [
     // Quartet
+    { ja : "仲介|ちゅうかい", en : "intermediation; agency", v : "VN", l : "Quartet: L3-漢字表" },
     { ja : "チェーン", en : "chain", v : "N", l : "Quartet: L3-読み物2" },
     { ja : "ちなみに", en : "by the way; incidentally; for your information", v : "Conj", l : "Quartet: L1-会話" },
     { ja : "チューハイ", en : "shochu-based highball", v : "N", l : "Quartet: L3-読み物2" },
@@ -3866,6 +3878,7 @@ Genki.jisho = {
   "ね" : [
     // Quartet
     { ja : "年始|ねし", en : "beginning of the year", v : "N", l : "Quartet: L3-読み物2" },
+    { ja : "値札|ねふだ", en : "price tag", v : "N", l : "Quartet: L3-漢字表" },
     
     // Tobira
     { ja : "ネイルアート", en : "(finger) nail art", v : "N", l : "Tobira: L10読" },
@@ -3973,7 +3986,9 @@ Genki.jisho = {
     // Quartet
     { ja : "ば|ば", en : "place", v : 'N', l : "Quartet: L3-読み物2" },
     { ja : "拝啓|はいけい", en : "Dear Sir/Madam [a letter salutation]", v : 'N', l : "Quartet: L2-読み物2" },
+    { ja : "泊|はく", en : "counter for nights of a stay", v : 'Counter', l : "Quartet: L3-漢字表" },
     { ja : "働き始める|はたらきはじめる", en : "to start working", v : 'ru-Vt', l : "Quartet: L1-読み物2" },
+    { ja : "抜群|ばつぐん", en : "outstanding", v : 'ANa/ANo', l : "Quartet: L3-漢字表" },
     { ja : "花園|はなぞの", en : "flower garden", v : 'N', l : "Quartet: L2-漢字表" },
     { ja : "花屋か(な)|はなやか(な)", en : "showy; brilliant", v : 'ANa', l : "Quartet: L2-聴解" },
     { ja : "晩|ばん", en : "evening; night", v : 'N', l : "Quartet: L1-読み物1" },
@@ -4195,7 +4210,10 @@ Genki.jisho = {
 
   "ひ" : [
     // Quartet
+    { ja : "筆者|ひっしゃ", en : "author; writer", v : 'N', l : "Quartet: L3-漢字表" },
+    { ja : "独り|ひとり", en : "alone", v : 'N', l : "Quartet: L3-漢字表" },
     { ja : "日の出|ひので", en : "sunrise", v : 'N', l : "Quartet: L3-読み物1" },
+    { ja : "疲労|ひろう", en : "fatigue", v : 'VN', l : "Quartet: L3-漢字表" },
     { ja : "秒|びょう", en : "second", v : 'N', l : "Quartet: L1-読み物1" },
     { ja : "標準|ひょうじゅん", en : "standard", v : 'N', l : "Quartet: L1-漢字表" },
     { ja : "氷点|ひょうてん", en : "freezing point", v : 'N', l : "Quartet: L1-漢字表" },
@@ -4350,6 +4368,7 @@ Genki.jisho = {
     // Quartet
     { ja : "無事に|ぶじに", en : "without any problems; peacefully; safely", v : 'N', l : "Quartet: L2-読み物2" },
     { ja : "縁|ふち", en : "frame (of glasses)", v : 'N', l : "Quartet: L1-読み物1" },
+    { ja : "筆|ふで", en : "writing brush; paintbrush", v : 'N', l : "Quartet: L3-漢字表" },
     { ja : "プログラム", en : "program", v : 'N', l : "Quartet: L2-読み物1" },
     
     // Tobira
@@ -4564,6 +4583,7 @@ Genki.jisho = {
 
   "ほ" : [
     // Quartet
+    { ja : "包装紙|ほうそうし", en : "wrapping paper", v : 'N', l : "Quartet: L3-漢字表" },
     { ja : "干す|ほす", en : "to dry", v : 'u-Vt', l : "Quartet: L1-漢字表" },
     { ja : "ほど", en : "about...", v : 'N', l : "Quartet: L1-読み物2" },
     { ja : "ほとんど～ない", en : "rarely; hardly", v : 'Exp', l : "Quartet: L1-読み物1" },
@@ -4784,6 +4804,9 @@ Genki.jisho = {
   ],
 
   "み" : [
+    // Quartet
+    { ja : "未熟|みじゅく", en : "immature; unripe", v : "N", l : "Quartet: L3-漢字表" },
+    
     // Tobira
     { ja : "見える|みえる", en : "to appear; seem; be visible", v : "ru-Vi", l : "Tobira: L12会" },
     { ja : "味方|みかた", en : "friend; supporter", v : "N", l : "Tobira: L10会1" },
@@ -4857,6 +4880,7 @@ Genki.jisho = {
     // Quartet
     { ja : "むし暑い|むしあつい", en : "humid; muggy", v : "A", l : "Quartet: L1-会話" },
     { ja : "難しさ|むずかしさ", en : "difficulty", v : "N", l : "Quartet: L3-読み物1" },
+    { ja : "無糖|むとう", en : "sugarless; unsweetened", v : "N", l : "Quartet: L3-漢字表" },
     
     // Tobira
     { ja : "無意味（な）|むいみ（な）", en : "meaningless", v : "ANa", l : "Tobira: L7読1" },
@@ -5153,6 +5177,9 @@ Genki.jisho = {
   ],
 
   "よ" : [
+    // Quartet
+    { ja : "装う|よそおう", en : "to pretend", v : "u-Vt", l : "Quartet: L3-漢字表" },
+    
     // Tobira
     { ja : "宵|よい", en : "early; evening", v : "N", l : "Tobira: L13読2" },
     { ja : "良い|よい", en : "good; fine; nice", v : "A", l : "Tobira: 漢字表" },
