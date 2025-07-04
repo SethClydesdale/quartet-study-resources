@@ -92,6 +92,8 @@ window.GenkiExercises = [
   'lesson-3/kanji-vocab-3|漢字の単語：仲、数、求、種、類、席、普、量、放、覚、額、個、打、疲、息|別冊p.40-42',
   'lesson-3/kanji-vocab-4|漢字の単語：抜、消、独、糖、等、印、再、検、熟、筆、駐、辞、籍|別冊p.42, 60',
   'lesson-3/kaiwa-1|会話：飲み会の予約を変更する|p.85-86',
+  'lesson-3/kaiwa-2|会話：居酒屋で|p.91-92',
+  'lesson-3/chokai-1|聴解：富士登山の計画|p.97',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
