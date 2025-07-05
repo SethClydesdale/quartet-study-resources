@@ -2160,7 +2160,18 @@ ruby.standard rt, .underline-field > span ruby rt {
 }
 
 .text-block p { margin:0 0 25px 0; }
-.audio-block { margin:25px 0 25px 0; }
+#static-audio, .audio-block { margin:25px 0 25px 0; }
+
+#static-audio { text-align:center; }
+#sticky-audio {
+  position:fixed;
+  left:0;
+  right:0;
+  top:5px;
+  text-align:center;
+  pointer-events:none;
+}
+#sticky-audio audio { pointer-events:all }
 
 .split-problem {
   display:inline-block;
