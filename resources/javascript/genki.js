@@ -2747,6 +2747,33 @@
     },
     
     
+    // designate an audio element as a sticky audio element that follows the user when scrolling
+    stickyAudio : {
+      init : function (id) {
+        document.body.insertAdjacentHTML('beforeend', '<div id="sticky-audio"></div>');
+
+        Genki.stickyAudio.static = document.getElementById(id);
+        Genki.stickyAudio.sticky = document.getElementById('sticky-audio');
+        Genki.stickyAudio.target = Genki.stickyAudio.static.getElementsByTagName('AUDIO')[0];
+        
+        // fix the height of the original audio element's parent to prevent jittering
+        Genki.stickyAudio.static.style.height = Genki.stickyAudio.target.getBoundingClientRect().height + 'px';
+
+        window.addEventListener('scroll', function() {
+          // add the audio element to the sticky element if off-screen
+          if (Genki.stickyAudio.static.getBoundingClientRect().bottom <= 0 && Genki.stickyAudio.target.parentNode.id != 'sticky-audio') {
+            Genki.stickyAudio.sticky.appendChild(Genki.stickyAudio.target);
+          }
+          
+          // add the audio element back to its original parent if on-screen
+          else if (Genki.stickyAudio.static.getBoundingClientRect().bottom >= 1 && Genki.stickyAudio.target.parentNode.id == 'sticky-audio') {
+            Genki.stickyAudio.static.appendChild(Genki.stickyAudio.target);
+          }
+        });
+      }
+    },
+    
+    
     // plays the specific audio element
     playAudio : function (id, time) {
       // play the targeted audio file

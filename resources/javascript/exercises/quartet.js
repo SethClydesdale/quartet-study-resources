@@ -94,6 +94,8 @@ window.GenkiExercises = [
   'lesson-3/kaiwa-1|会話：飲み会の予約を変更する|p.85-86',
   'lesson-3/kaiwa-2|会話：居酒屋で|p.91-92',
   'lesson-3/chokai-1|聴解：富士登山の計画|p.97',
+  'lesson-3/chokai-2|聴解：レストランで並ぶこと|p.98',
+  'lesson-3/workbook-1|読み物1：〇×チェック|p.33; A',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
