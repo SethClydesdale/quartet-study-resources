@@ -83,7 +83,7 @@
       '<span class="kotoba"><ruby>遠慮<rt>えんりょ</rt></ruby>なく　without hesitation</span>'+
     '</div>'+
 
-    '{!AUDIO|kaiwa_l2-2}'+
+    '<div id="static-audio">{!AUDIO|kaiwa_l2-2}</div>'+
     '<div class="center"><button class="button" onclick="Genki.toggle.chokaiScript(\'kaiwa_l2-2\');"><span class="en">Toggle Script</span><span class="ja">スクリプトをトグルする</span></button></div>'+
     '<div id="script-kaiwa_l2-2" class="chokai-script dialogue AB clear" style="display:none;">'+
       '<div class="sub-section text-passage">'+
@@ -219,6 +219,9 @@
       [67.7, 69.7],
       [70.4, 79]
     ]);
+      
+    // keeps the audio on-screen when the user scrolls out of view
+    Genki.stickyAudio.init('static-audio');  
     </script>
   </body>
 </html>

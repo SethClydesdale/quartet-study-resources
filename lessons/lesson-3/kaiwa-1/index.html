@@ -87,7 +87,7 @@
       '<span class="kotoba">たたみ　staw and rush mats</span>'+
     '</div>'+
 
-    '{!AUDIO|kaiwa_l3-1}'+
+    '<div id="static-audio">{!AUDIO|kaiwa_l3-1}</div>'+
     '<div class="center"><button class="button" onclick="Genki.toggle.chokaiScript(\'kaiwa_l3-1\');"><span class="en">Toggle Script</span><span class="ja">スクリプトをトグルする</span></button></div>'+
     '<div id="script-kaiwa_l3-1" class="chokai-script dialogue AB clear" style="display:none;">'+
       '<div class="sub-section text-passage">'+
@@ -233,6 +233,9 @@
       [81.6, 84.8],
       [85.4, 90]
     ]);
+    
+    // keeps the audio on-screen when the user scrolls out of view
+    Genki.stickyAudio.init('static-audio');
     </script>
   </body>
 </html>

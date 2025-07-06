@@ -86,7 +86,7 @@
       '<span class="kotoba">～<ruby>専門<rt>せんもん</rt></ruby>　specialized in ~</span>'+
     '</div>'+
 
-    '{!AUDIO|kaiwa_l1-2}'+
+    '<div id="static-audio">{!AUDIO|kaiwa_l1-2}</div>'+
     '<div class="center"><button class="button" onclick="Genki.toggle.chokaiScript(\'kaiwa_l1-2\');"><span class="en">Toggle Script</span><span class="ja">スクリプトをトグルする</span></button></div>'+
     '<div id="script-kaiwa_l1-2" class="chokai-script dialogue AB clear" style="display:none;">'+
       '<div class="sub-section text-passage">'+
@@ -268,6 +268,9 @@
       [76, 80.5],
       [81, 86]
     ]);
+      
+    // keeps the audio on-screen when the user scrolls out of view
+    Genki.stickyAudio.init('static-audio');  
     </script>
   </body>
 </html>
