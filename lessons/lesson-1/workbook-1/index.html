@@ -78,7 +78,7 @@
       info : '<span class="en">Read the section below and then answer the questions.</span><span class="ja">次の読み物を読んで質問に答えなさい。</span>',
       
     quizlet : 
-    '{!AUDIO|yomimono_l1-1}'+
+    '<div id="static-audio">{!AUDIO|yomimono_l1-1}</div>'+
     '<div class="center"><button class="button" onclick="Genki.toggle.chokaiScript(\'yomimono_l1-1\');"><span class="en">Toggle Script</span><span class="ja">スクリプトをトグルする</span></button></div>'+
     '<div id="script-yomimono_l1-1" class="chokai-script noclear" style="display:none;">'+
       '<div class="sub-section text-passage">'+
@@ -154,6 +154,9 @@
       [162.7, 169.5],
       [170.5, 177]
     ]);
+      
+    // keeps the audio on-screen when the user scrolls out of view
+    Genki.stickyAudio.init('static-audio');  
     </script>
   </body>
 </html>

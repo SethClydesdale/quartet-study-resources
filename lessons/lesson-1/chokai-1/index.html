@@ -80,7 +80,7 @@
     quizlet : 
     '<p class="sectionDesc3rd"><span class="sectionNumber3rd fa">&#xf054;</span>留学生のジョージとルームメートの<ruby>研<rt>けん</rt></ruby>が「ジブリ美術館」について話しています。<br>会話を聞いて<ruby>内容<rt>ないよう</rt></ruby>と<ruby>合<rt>あ</rt></ruby>うものに〇/Oをつけなさい。</p>'+
 
-    '{!AUDIO|chokai_l1-1}'+
+    '<div id="static-audio">{!AUDIO|chokai_l1-1}</div>'+
     '<div class="center"><button class="button" onclick="Genki.toggle.chokaiScript(\'chokai_l1-1\');"><span class="en">Toggle Script</span><span class="ja">スクリプトをトグルする</span></button></div>'+
     '<div id="script-chokai_l1-1" class="chokai-script" style="display:none;">'+
       '<div class="sub-section text-passage dialogue AB">'+
@@ -229,6 +229,9 @@
       [94.6, 98.5], 
       [98.6, 103]
     ]);
+      
+    // keeps the audio on-screen when the user scrolls out of view
+    Genki.stickyAudio.init('static-audio');  
     </script>
   </body>
 </html>

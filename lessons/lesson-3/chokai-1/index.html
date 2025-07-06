@@ -86,7 +86,7 @@
       '<span class="kotoba"><ruby>急<rt>きゅう</rt></ruby>な　steep</span>'+
     '</div>'+
 
-    '{!AUDIO|chokai_l3-1}'+
+    '<div id="static-audio">{!AUDIO|chokai_l3-1}</div>'+
     '<div class="center"><button class="button" onclick="Genki.toggle.chokaiScript(\'chokai_l3-1\');"><span class="en">Toggle Script</span><span class="ja">スクリプトをトグルする</span></button></div>'+
     '<div id="script-chokai_l3-1" class="chokai-script dialogue clear" style="display:none;">'+
       '<div class="sub-section text-passage">'+
@@ -221,6 +221,9 @@
       [102.9, 119.5],
       [119.8, 128]
     ]);
+    
+    // keeps the audio on-screen when the user scrolls out of view
+    Genki.stickyAudio.init('static-audio');
     </script>
   </body>
 </html>
