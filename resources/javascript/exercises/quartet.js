@@ -96,6 +96,9 @@ window.GenkiExercises = [
   'lesson-3/chokai-1|聴解：富士登山の計画|p.97',
   'lesson-3/chokai-2|聴解：レストランで並ぶこと|p.98',
   'lesson-3/workbook-1|読み物1：〇×チェック|p.33; A',
+  'lesson-3/workbook-2|読み物1：読みのストラテジーの練習|p.33; B',
+  'lesson-3/workbook-3|読み物1：内容質問|p.34; C',
+  'lesson-3/workbook-4|読み物2：〇×チェック|p.35; A',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
