@@ -17,7 +17,7 @@
   color:#31AE36 !important;
 }
 
-.button, a.button, header, #announcement, #quick-nav-list li:before, #quick-nav-list a.sub-section-button, #quick-search-results li[data-lesson]:before, #quiz-info, #exercise-list .main-title, #exercise-list li a[data-page]:hover:after, #exercise-list li a[data-page]:focus:after, #quiz-progress-bar, #complete-banner, #genki-modal-header, .genki_pseudo_radio:after, #quick-jisho-toggle, .quick-jisho-header, #appendix-tool .page-data, .grammar-index .num, .star, .tango:before, .label-color, .page-data {
+.button, a.button, header, #announcement, #quick-nav-list li:before, #quick-nav-list a.sub-section-button, #quick-search-results li[data-lesson]:before, #quiz-info, #exercise-list .main-title, #exercise-list li a[data-page]:hover:after, #exercise-list li a[data-page]:focus:after, #quiz-progress-bar, #complete-banner, #genki-modal-header, .genki_pseudo_radio:after, #quick-jisho-toggle, .quick-jisho-header, #appendix-tool .page-data, .grammar-index .num, .star, .tango:before, .label-color, .page-data, .color-tag {
   background-color:#31AE36;
 }
 
