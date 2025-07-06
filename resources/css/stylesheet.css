@@ -3532,6 +3532,14 @@ input:checked + .genki_pseudo_checkbox:after { font-size:14px; }
   margin-right:6px;
 }
 
+.color-tag {
+  color:#FFF;
+  background:#0096d6;
+  font-weight:bold;
+  padding:1px 6px;
+  margin-right:6px;
+}
+
 .kotoba {
   margin-right:20px;
 }
