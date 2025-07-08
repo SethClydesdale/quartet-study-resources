@@ -103,6 +103,11 @@ window.GenkiExercises = [
   'lesson-3/workbook-6|読み物2：内容質問|p.36; C',
   'lesson-3/workbook-7|基本練習：～うちに|p.37',
   'lesson-3/workbook-8|基本練習：Nにとって|p.37',
+  'lesson-3/workbook-9|基本練習：Nとして|p.38',
+  'lesson-3/workbook-10|基本練習：～べきだ／べきではない|p.38',
+  'lesson-3/workbook-11|基本練習：～からといって|p.39',
+  'lesson-3/workbook-12|基本練習：～とは限らない|p.39-40',
+  'lesson-3/workbook-13|基本練習：～のに|p.40',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
