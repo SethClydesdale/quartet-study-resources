@@ -108,6 +108,11 @@ window.GenkiExercises = [
   'lesson-3/workbook-11|基本練習：～からといって|p.39',
   'lesson-3/workbook-12|基本練習：～とは限らない|p.39-40',
   'lesson-3/workbook-13|基本練習：～のに|p.40',
+  'lesson-3/workbook-14|まとめの練習：問題1・2|p.41',
+  'lesson-3/workbook-15|まとめの練習：問題3|p.42',
+  'lesson-3/workbook-16|初級文法チェック4：あげる／くれる／もらう・問題1|p.91',
+  'lesson-3/workbook-17|初級文法チェック4：あげる／くれる／もらう・問題2|p.91-92',
+  'lesson-3/workbook-18|初級文法チェック4：あげる／くれる／もらう・問題3|p.92',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',

@@ -3359,7 +3359,7 @@ input:checked + .genki_pseudo_checkbox:after { font-size:14px; }
   margin:30px 0 10px 0;
 }
 
-.sub-title-color .button {
+.sub-title-color .button, .button.small-button {
   transform:scale(0.80);
   border-radius:30px;
   margin-left:-0.75em;
