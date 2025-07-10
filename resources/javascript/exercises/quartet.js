@@ -31,15 +31,15 @@ window.GenkiExercises = [
   'lesson-1/workbook-13|基本練習：Nによると|p.16',
   'lesson-1/workbook-14|まとめの練習：問題1|p.17',
   'lesson-1/workbook-15|まとめの練習：問題2・3|p.17-18',
-  'lesson-1/workbook-16|初級文法チェック1：書き言葉の文体・その1|p.85',
-  'lesson-1/workbook-17|初級文法チェック1：書き言葉の文体・その2|p.85',
-  'lesson-1/workbook-18|初級文法チェック1：書き言葉の文体・その3|p.86',
-  'lesson-1/workbook-19|初級文法チェック1：書き言葉の文体・その4|p.86',
+  'lesson-1/workbook-16|初級文法チェック1：<span class="ja">書き言葉の文体</span><span class="en">Styles in Written Japanese</span>・その1|p.85',
+  'lesson-1/workbook-17|初級文法チェック1：<span class="ja">書き言葉の文体</span><span class="en">Styles in Written Japanese</span>・その2|p.85',
+  'lesson-1/workbook-18|初級文法チェック1：<span class="ja">書き言葉の文体</span><span class="en">Styles in Written Japanese</span>・その3|p.86',
+  'lesson-1/workbook-19|初級文法チェック1：<span class="ja">書き言葉の文体</span><span class="en">Styles in Written Japanese</span>・その4|p.86',
   'lesson-1/workbook-20|初級文法チェック2：そうだ／らしい／ようだ／みたいだ・その1|p.87',
   'lesson-1/workbook-21|初級文法チェック2：そうだ／らしい／ようだ／みたいだ・その2|p.88',
   'lesson-1/workbook-22|初級文法チェック2：そうだ／らしい／ようだ／みたいだ・その3|p.88',
-  'lesson-1/workbook-23|漢字チャレンジ1：形が似ている漢字|p.99',
-  'lesson-1/workbook-24|漢字チャレンジ2：音符|p.100',
+  'lesson-1/workbook-23|漢字チャレンジ1：<span class="ja">形が似ている漢字</span><span class="en">Kanji with Similar Shapes</span>|p.99',
+  'lesson-1/workbook-24|漢字チャレンジ2：<span class="ja">音符</span><span class="en">Phonetic Indicators</span>|p.100',
   
   // Lesson 2
   'lesson-2/vocab-1|単語：読み物1・その1|別冊p.6',
@@ -72,8 +72,8 @@ window.GenkiExercises = [
   'lesson-2/workbook-13|基本練習：～ことになる・その2|p.28; B',
   'lesson-2/workbook-14|基本練習：まとめの練習：問題1・2|p.29',
   'lesson-2/workbook-15|基本練習：まとめの練習：問題3|p.30',
-  'lesson-2/workbook-16|初級文法チェック3：敬語・問題1・2|p.89',
-  'lesson-2/workbook-17|初級文法チェック3：敬語・問題3|p.90',
+  'lesson-2/workbook-16|初級文法チェック3：<span class="ja">敬語</span><span class="en">Polite Style</span>・問題1・2|p.89',
+  'lesson-2/workbook-17|初級文法チェック3：<span class="ja">敬語</span><span class="en">Polite Style</span>・問題3|p.90',
   'lesson-2/workbook-18|漢字チャレンジ3：部首「にんべん（<span class="rad">⺅</span>）・ひとやね（<span class="rad">𠆢</span>）」|p.101',
   'lesson-2/workbook-19|漢字チャレンジ4：部首「きへん（<span class="rad"></span>）・き（<span class="rad">⽊</span>）」|p.102',
   
@@ -113,6 +113,8 @@ window.GenkiExercises = [
   'lesson-3/workbook-16|初級文法チェック4：あげる／くれる／もらう・問題1|p.91',
   'lesson-3/workbook-17|初級文法チェック4：あげる／くれる／もらう・問題2|p.91-92',
   'lesson-3/workbook-18|初級文法チェック4：あげる／くれる／もらう・問題3|p.92',
+  'lesson-3/workbook-19|漢字チャレンジ5：<span class="ja">接頭辞</span><span class="en">Prefixes</span>|p.103',
+  'lesson-3/workbook-20|漢字チャレンジ6：<span class="ja">接尾辞</span><span class="en">Suffixes</span>|p.104',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
