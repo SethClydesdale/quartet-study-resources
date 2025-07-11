@@ -115,6 +115,11 @@ window.GenkiExercises = [
   'lesson-3/workbook-18|初級文法チェック4：あげる／くれる／もらう・問題3|p.92',
   'lesson-3/workbook-19|漢字チャレンジ5：<span class="ja">接頭辞</span><span class="en">Prefixes</span>|p.103',
   'lesson-3/workbook-20|漢字チャレンジ6：<span class="ja">接尾辞</span><span class="en">Suffixes</span>|p.104',
+  
+  // Lesson 4
+  'lesson-4/vocab-1|単語：読み物1・その1|別冊p.14',
+  'lesson-4/vocab-2|単語：読み物1・その2|別冊p.14-15',
+  'lesson-4/vocab-3|単語：読み物1・その3|別冊p.15',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
