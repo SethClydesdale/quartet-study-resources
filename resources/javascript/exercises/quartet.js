@@ -125,6 +125,10 @@ window.GenkiExercises = [
   'lesson-4/kanji-1|漢字の練習：読み方|別冊p.43-47, 61',
   'lesson-4/kanji-2|漢字の練習：意味|別冊p.43-47, 61',
   'lesson-4/kanji-3|漢字の練習：書き順|別冊p.43-47, 61',
+  'lesson-4/kanji-vocab-1|漢字の単語：座、談、現、在、常、軽、僕、政、治、歴、史、積、極、価、観|別冊p.43-44',
+  'lesson-4/kanji-vocab-2|漢字の単語：触、寮、式、視、費、非、念、確、成、績、緒、遠、済、位、換|別冊p.44-45',
+  'lesson-4/kanji-vocab-3|漢字の単語：企、採、練、接、儀、容、労、応、頼、片、勤、熱、驚|別冊p.46-47',
+  'lesson-4/kanji-vocab-4|漢字の単語：育、識、含、告、命、叫、喫、晴、曇、星、暖、替|別冊p.47, 61',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
