@@ -129,6 +129,7 @@ window.GenkiExercises = [
   'lesson-4/kanji-vocab-2|漢字の単語：触、寮、式、視、費、非、念、確、成、績、緒、遠、済、位、換|別冊p.44-45',
   'lesson-4/kanji-vocab-3|漢字の単語：企、採、練、接、儀、容、労、応、頼、片、勤、熱、驚|別冊p.46-47',
   'lesson-4/kanji-vocab-4|漢字の単語：育、識、含、告、命、叫、喫、晴、曇、星、暖、替|別冊p.47, 61',
+  'lesson-4/kaiwa-1|会話：ジョージの悩み|p.119-120',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
