@@ -130,6 +130,8 @@ window.GenkiExercises = [
   'lesson-4/kanji-vocab-3|漢字の単語：企、採、練、接、儀、容、労、応、頼、片、勤、熱、驚|別冊p.46-47',
   'lesson-4/kanji-vocab-4|漢字の単語：育、識、含、告、命、叫、喫、晴、曇、星、暖、替|別冊p.47, 61',
   'lesson-4/kaiwa-1|会話：ジョージの悩み|p.119-120',
+  'lesson-4/kaiwa-2|会話：初めての京都|p.124-126',
+  'lesson-4/chokai-1|聴解：アルバイトの初日|p.130',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',

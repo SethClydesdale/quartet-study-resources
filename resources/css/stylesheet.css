@@ -3543,7 +3543,7 @@ input:checked + .genki_pseudo_checkbox:after { font-size:14px; }
 .kotoba {
   margin-right:20px;
 }
-.kotoba:last-child { margin-right:0; }
+/*.kotoba:last-child { margin-right:0; }*/
 
 
 /* DRAGULA CSS */
