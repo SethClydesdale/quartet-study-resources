@@ -132,6 +132,8 @@ window.GenkiExercises = [
   'lesson-4/kaiwa-1|会話：ジョージの悩み|p.119-120',
   'lesson-4/kaiwa-2|会話：初めての京都|p.124-126',
   'lesson-4/chokai-1|聴解：アルバイトの初日|p.130',
+  'lesson-4/chokai-2|聴解：夏の長期休暇|p.131',
+  'lesson-4/workbook-1|読み物1：〇×チェック|p.45; A',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
