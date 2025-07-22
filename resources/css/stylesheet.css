@@ -3378,10 +3378,10 @@ input:checked + .genki_pseudo_checkbox:after { font-size:14px; }
   margin-right:3px;
 }
 
-.example .line .name:after, .dialogue .line .name:after { content:":"; }
-.example.paren .line .name:after, .dialogue.paren .line .name:after { content:")"; }
-.example .line .name:empty:after, .dialogue .line .name:empty:after { opacity:0; }
-.example .line .name, .dialogue .line .name {
+.example .line .name:after, .dialogue .line .name:after, .dialogue .section .name:after { content:":"; }
+.example.paren .line .name:after, .dialogue.paren .line .name:after, .dialogue.paren .section .name:after { content:")"; }
+.example .line .name:empty:after, .dialogue .line .name:empty:after, .dialogue .section .name:empty:after { opacity:0; }
+.example .line .name, .dialogue .line .name, .dialogue .section .name {
   font-weight:bold;
   text-align:right;
   float:left;
@@ -3390,15 +3390,15 @@ input:checked + .genki_pseudo_checkbox:after { font-size:14px; }
   word-wrap:break-word;
 }
 
-.example .line .text, .dialogue .line .text {
+.example .line .text, .dialogue .line .text, .dialogue .section .text {
   float:left;
   width:72%;
 }
 
-.example.AB .line .name, .dialogue.AB .line .name { width:10% }
-.example.AB .line .text, .dialogue.AB .line .text { width:87% }
+.example.AB .line .name, .dialogue.AB .line .name, .dialogue.AB .section .name { width:10% }
+.example.AB .line .text, .dialogue.AB .line .text, .dialogue.AB .section .text { width:87% }
 
-.line:after {
+.line:after, .dialogue .section:after {
   content:"";
   display:table;
   clear:both;
