@@ -134,6 +134,11 @@ window.GenkiExercises = [
   'lesson-4/chokai-1|聴解：アルバイトの初日|p.130',
   'lesson-4/chokai-2|聴解：夏の長期休暇|p.131',
   'lesson-4/workbook-1|読み物1：〇×チェック|p.45; A',
+  'lesson-4/workbook-2|読み物1：読みのストラテジーの練習|p.45; B',
+  'lesson-4/workbook-3|読み物1：内容質問|p.46; C',
+  'lesson-4/workbook-4|読み物2：〇×チェック|p.47; A',
+  'lesson-4/workbook-5|読み物2：読みのストラテジーの練習|p.47; B',
+  'lesson-4/workbook-6|読み物2：内容質問|p.48; C',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',

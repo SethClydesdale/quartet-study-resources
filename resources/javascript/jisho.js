@@ -5004,6 +5004,7 @@ Genki.jisho = {
     // Quartet
     { ja : "名誉賞|めいよしょう", en : "honorary award", v : 'N', l : "Quartet: L1-読み物1" },
     { ja : "メリット", en : "merit; advantage", v : 'N', l : "Quartet: L4-読み物1" },
+    { ja : "迷惑がかかる|めいわくがかかる", en : "to bother someone", v : 'Exp', l : "Quartet: L4-聴解2" },
     
     // Tobira
     { ja : "名医|めいい", en : "noted doctor; excellent physician", v : "N", l : "Tobira: 漢字表" },
