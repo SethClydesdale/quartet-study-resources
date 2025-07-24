@@ -139,6 +139,8 @@ window.GenkiExercises = [
   'lesson-4/workbook-4|読み物2：〇×チェック|p.47; A',
   'lesson-4/workbook-5|読み物2：読みのストラテジーの練習|p.47; B',
   'lesson-4/workbook-6|読み物2：内容質問|p.48; C',
+  'lesson-4/workbook-7|基本練習：～以来|p.49',
+  'lesson-4/workbook-8|基本練習：せっかく|p.49',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
