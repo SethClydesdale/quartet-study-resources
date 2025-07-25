@@ -141,6 +141,13 @@ window.GenkiExercises = [
   'lesson-4/workbook-6|読み物2：内容質問|p.48; C',
   'lesson-4/workbook-7|基本練習：～以来|p.49',
   'lesson-4/workbook-8|基本練習：せっかく|p.49',
+  'lesson-4/workbook-9|基本練習：～さえ|p.50',
+  'lesson-4/workbook-10|基本練習：～さえ～ば|p.50',
+  'lesson-4/workbook-11|基本練習：～ないで済む／～ずに済む|p.51',
+  'lesson-4/workbook-12|基本練習：(Xは)Yほど～ない|p.51',
+  'lesson-4/workbook-13|基本練習：～わけだ|p.52',
+  'lesson-4/workbook-14|基本練習：～ば～のに|p.52',
+  'lesson-4/workbook-15|まとめの練習：問題1・2|p.53',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
