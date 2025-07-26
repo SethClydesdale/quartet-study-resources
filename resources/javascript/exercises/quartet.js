@@ -148,6 +148,13 @@ window.GenkiExercises = [
   'lesson-4/workbook-13|基本練習：～わけだ|p.52',
   'lesson-4/workbook-14|基本練習：～ば～のに|p.52',
   'lesson-4/workbook-15|まとめの練習：問題1・2|p.53',
+  'lesson-4/workbook-16|まとめの練習：問題3|p.53-54',
+  'lesson-4/workbook-17|初級文法チェック5：<span class="ja">受身形／使役形／使役受身形・問題1</span><span class="en">Passive／Causative／Causative-passive・Problem 1</span>|p.93',
+  'lesson-4/workbook-18|初級文法チェック5：<span class="ja">受身形／使役形／使役受身形・問題2</span><span class="en">Passive／Causative／Causative-passive・Problem 2</span>|p.93-94',
+  'lesson-4/workbook-19|初級文法チェック5：<span class="ja">受身形／使役形／使役受身形・問題3</span><span class="en">Passive／Causative／Causative-passive・Problem 3</span>|p.94',
+  'lesson-4/workbook-20|初級文法チェック5：<span class="ja">受身形／使役形／使役受身形・問題4</span><span class="en">Passive／Causative／Causative-passive・Problem 4</span>|p.94',
+  'lesson-4/workbook-21|漢字チャレンジ7：部首「くちへん（<span class="rad"></span>）・くち（<span class="rad">⼝</span>）」|p.105',
+  'lesson-4/workbook-22|漢字チャレンジ8：部首「ひへん（<span class="rad"></span>）・ひ（<span class="rad">⽇</span>）」|p.106',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
