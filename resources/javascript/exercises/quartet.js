@@ -155,6 +155,11 @@ window.GenkiExercises = [
   'lesson-4/workbook-20|初級文法チェック5：<span class="ja">受身形／使役形／使役受身形・問題4</span><span class="en">Passive／Causative／Causative-passive・Problem 4</span>|p.94',
   'lesson-4/workbook-21|漢字チャレンジ7：部首「くちへん（<span class="rad"></span>）・くち（<span class="rad">⼝</span>）」|p.105',
   'lesson-4/workbook-22|漢字チャレンジ8：部首「ひへん（<span class="rad"></span>）・ひ（<span class="rad">⽇</span>）」|p.106',
+  
+  // Lesson 5
+  'lesson-5/vocab-1|単語：読み物1・その1|別冊p.19',
+  'lesson-5/vocab-2|単語：読み物1・その2|別冊p.19',
+  'lesson-5/vocab-3|単語：読み物1・その3|別冊p.19-20',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
