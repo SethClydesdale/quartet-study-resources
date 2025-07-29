@@ -1201,8 +1201,8 @@
       Genki.scrollTo('#exercise-title', true);
       
       // add dictionary for looking up words, but not for vocab exercises, since that would be cheating!
-      // also disabled in the appendix 
-      if (Genki.debug || (!/drag|kana|drawing/.test(o.type) && !Genki.appendix)) {
+      // also disabled in the appendix and stroke order exercises
+      if (Genki.debug || (!/drag|kana|drawing|stroke/.test(o.type) && !Genki.appendix)) {
         if (Genki.debug || (o.format && !/vocab|kana|numbers/.test(o.format)) || !o.format) {
           Genki.quickJisho.create();
         }
