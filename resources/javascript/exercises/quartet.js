@@ -165,6 +165,10 @@ window.GenkiExercises = [
   'lesson-5/kanji-1|漢字の練習：読み方|別冊p.48-52, 62',
   'lesson-5/kanji-2|漢字の練習：意味|別冊p.48-52, 62',
   'lesson-5/kanji-3|漢字の練習：書き順|別冊p.48-52, 62',
+  'lesson-5/kanji-vocab-1|漢字の単語：門、級、鮮、看、板、豊、富、定、増、帯、列、置、順、呼|別冊p.48-49',
+  'lesson-5/kanji-vocab-2|漢字の単語：湯、粉、付、押、便、利、面、巻、詳、示、繰、庭、甘|別冊p.49-50',
+  'lesson-5/kanji-vocab-3|漢字の単語：辛、材、玉、薄、油、皮、縦、幅、煮、弱、整、完|別冊p.50-51',
+  'lesson-5/kanji-vocab-4|漢字の単語：汁、余、捨、減、離、抽、房、撮、泣、鳴、革、聖、為|別冊p.51-52, 62',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
