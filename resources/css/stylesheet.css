@@ -288,7 +288,11 @@ input[type="text"]:focus, input[type="number"]:focus, textarea:focus, select:foc
 .t-valign-top { vertical-align:top; }
 
 /* text styles */
-.main-color { color:#0096D6; }
+.main-color, .color-blue { color:#0096D6; }
+.color-cerise { color:#E6237B; }
+.color-green { color:#31AE36; }
+.color-orange { color:#EC6B1C; }
+
 .t-red { color:#F00; }
 .t-green { color:#080; }
 .t-blue { color:#09F; }
