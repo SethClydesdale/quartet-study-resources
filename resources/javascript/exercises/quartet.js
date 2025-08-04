@@ -170,6 +170,7 @@ window.GenkiExercises = [
   'lesson-5/kanji-vocab-3|漢字の単語：辛、材、玉、薄、油、皮、縦、幅、煮、弱、整、完|別冊p.50-51',
   'lesson-5/kanji-vocab-4|漢字の単語：汁、余、捨、減、離、抽、房、撮、泣、鳴、革、聖、為|別冊p.51-52, 62',
   'lesson-5/kaiwa-1|会話：回転ずしに行こう|p.152-154',
+  'lesson-5/kaiwa-2|会話：道を尋ねる|p.159-161',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
