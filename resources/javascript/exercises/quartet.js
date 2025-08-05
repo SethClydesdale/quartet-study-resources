@@ -171,6 +171,7 @@ window.GenkiExercises = [
   'lesson-5/kanji-vocab-4|漢字の単語：汁、余、捨、減、離、抽、房、撮、泣、鳴、革、聖、為|別冊p.51-52, 62',
   'lesson-5/kaiwa-1|会話：回転ずしに行こう|p.152-154',
   'lesson-5/kaiwa-2|会話：道を尋ねる|p.159-161',
+  'lesson-5/chokai-1|聴解：今日の晩ご飯|p.166',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
