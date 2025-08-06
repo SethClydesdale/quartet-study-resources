@@ -172,6 +172,8 @@ window.GenkiExercises = [
   'lesson-5/kaiwa-1|会話：回転ずしに行こう|p.152-154',
   'lesson-5/kaiwa-2|会話：道を尋ねる|p.159-161',
   'lesson-5/chokai-1|聴解：今日の晩ご飯|p.166',
+  'lesson-5/chokai-2|聴解：家に遊びに行く約束|p.167',
+  'lesson-5/workbook-1|読み物1：〇×チェック|p.57; A',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
