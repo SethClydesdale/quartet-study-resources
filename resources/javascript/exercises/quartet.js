@@ -174,6 +174,8 @@ window.GenkiExercises = [
   'lesson-5/chokai-1|聴解：今日の晩ご飯|p.166',
   'lesson-5/chokai-2|聴解：家に遊びに行く約束|p.167',
   'lesson-5/workbook-1|読み物1：〇×チェック|p.57; A',
+  'lesson-5/workbook-2|読み物1：読みのストラテジーの練習|p.57; B',
+  'lesson-5/workbook-3|読み物1：内容質問|p.58; C',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
