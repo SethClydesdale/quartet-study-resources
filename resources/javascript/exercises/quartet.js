@@ -176,6 +176,9 @@ window.GenkiExercises = [
   'lesson-5/workbook-1|読み物1：〇×チェック|p.57; A',
   'lesson-5/workbook-2|読み物1：読みのストラテジーの練習|p.57; B',
   'lesson-5/workbook-3|読み物1：内容質問|p.58; C',
+  'lesson-5/workbook-4|読み物2：〇×チェック|p.59; A',
+  'lesson-5/workbook-5|読み物2：読みのストラテジーの練習|p.59; B',
+  'lesson-5/workbook-6|読み物2：内容質問|p.60; C',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
