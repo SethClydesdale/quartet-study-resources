@@ -184,6 +184,9 @@ window.GenkiExercises = [
   'lesson-5/workbook-9|基本練習：～はずだ・その1|p.62; A',
   'lesson-5/workbook-10|基本練習：～はずだ・その2|p.62; B',
   'lesson-5/workbook-11|基本練習：(もし)～ても|p.63',
+  'lesson-5/workbook-12|基本練習：～ように・その1|p.63; A',
+  'lesson-5/workbook-13|基本練習：～ように・その2|p.64; B',
+  'lesson-5/workbook-14|基本練習：～だけあって|p.64',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
