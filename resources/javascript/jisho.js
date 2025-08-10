@@ -791,7 +791,7 @@ Genki.jisho = {
     { ja : '重い|おもい', en : 'heavy; serious (illness)', l : 'Genki: 会L20' },
     { ja : '思い出|おもいで', en : 'memory', l : 'Genki: 会L23' },
     { ja : '思う|おもう', en : 'to think', v : 'u', l : 'Genki: 会L8' },
-    { ja : '面白い|おもしろい', en : 'interesting; funny', l : 'Genki: 会L5' },
+    { ja : '面白い|おもしろい', en : 'interesting; funny; entertaining', l : 'Genki: 会L5' },
     { ja : 'おもち', en : 'rice cake', l : 'Genki: 読L10-II' },
     { ja : 'おもちゃ', en : 'toy', l : 'Genki: 会L11' },
     { ja : '主に|おもに', en : 'mainly', l : 'Genki: 読L17-II' },
@@ -1486,7 +1486,7 @@ Genki.jisho = {
     { ja : "苦労|くろう", en : "trouble; hardship; anxiety; worry", v : "VN", l : "Tobira: 漢字表" },
     { ja : "黒砂糖|くろざとう", en : "brown sugar", v : "N", l : "Tobira: L8読" },
     { ja : "加える|くわえる", en : "to add", v : "ru-Vt", l : "Tobira: L11読" },
-    { ja : "詳しい|くわしい", en : "detailed; full", v : "A", l : "Tobira: L4会2" },
+    { ja : "詳しい|くわしい", en : "detailed; full; knowing very well", v : "A", l : "Tobira: L4会2" },
     { ja : "-君|-くん", en : "attached to the first or last name of male equal or a person whose status or rank is lower than the speaker's", v : "Suf", l : "Tobira: L3会1" },
     { ja : "訓読み|くんよみ", en : "kun reading; kun'yomi; native Japanese reading of a Chinese character", v : "VN", l : "Tobira: 漢字表" },
 
@@ -2411,7 +2411,7 @@ Genki.jisho = {
     { ja : "神話|しんわ", en : "myth; mythology", v : "N", l : "Tobira: L6読1" },
 
     // Genki
-    { ja : '字|じ', en : 'letter; character', l : 'Genki: 会L20' },
+    { ja : '字|じ', en : 'letter; character; handwriting', l : 'Genki: 会L20' },
     { ja : '～時|～じ', en : "o'clock", l : 'Genki: 会L1' },
     { ja : '幸せ|しあわせ（な）', en : 'happiness; good fortune; luck', l : 'Genki: 読L10-II, 会L13' },
     { ja : '寺院|じいん', en : 'sacred building', l : 'Genki: 読L15-漢字表' },
