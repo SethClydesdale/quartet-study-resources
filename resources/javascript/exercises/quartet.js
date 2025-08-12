@@ -189,6 +189,8 @@ window.GenkiExercises = [
   'lesson-5/workbook-14|基本練習：～だけあって|p.64',
   'lesson-5/workbook-15|まとめの練習：問題1・2|p.65',
   'lesson-5/workbook-16|まとめの練習：問題3|p.66',
+  'lesson-5/workbook-17|初級文法チェック6：<span class="ja">条件文　～たら／～と／～ば／～なら・問題1</span><span class="en">Conditional Sentences ～たら／～と／～ば／～なら・Problem 1</span>|p.95',
+  'lesson-5/workbook-18|初級文法チェック6：<span class="ja">条件文　～たら／～と／～ば／～なら・問題2</span><span class="en">Conditional Sentences ～たら／～と／～ば／～なら・Problem 2</span>|p.96',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
