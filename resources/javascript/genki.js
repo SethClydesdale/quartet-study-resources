@@ -831,7 +831,7 @@
               flag[2] && /placeholder:/.test(flag[2]) ? flag[2].split(':')[1] : null;
 
             // parse and return the input field
-            return '<span class="writing-zone">'+
+            return '<span class="writing-zone' + (/^!I/.test(hint) ? ' multi-select' : '') + '">'+
               '<input '+
                 'class="writing-zone-input" '+
                 'type="text" '+
@@ -866,7 +866,7 @@
                   }
                   
                   for (var trigger = $1.slice(2).split('／'), i = 0, j = trigger.length, str = alpha ? '<ol class="alpha-selection clear">' : ''; i < j; i++) {
-                    str += (alpha ? '<li>' : '') + '<a href="#" onclick="this.parentNode.parentNode' + ( alpha ? '.parentNode.parentNode' : '' ) + '.querySelector(\'.writing-zone-input\').value = this.innerText; return false;" class="insert-trigger">' + trigger[i] + '</a>' + spacer + (alpha ? '</li>' : '');
+                    str += (alpha ? '<li>' : '') + '<a href="#" onclick="Genki.selectAnswer(this, ' + (alpha) + '); return false;" class="insert-trigger">' + trigger[i] + '</a>' + spacer + (alpha ? '</li>' : '');
                   }
                   
                   if (alpha) str += '</ol>';
@@ -1003,7 +1003,16 @@
       if (Genki.currentAnswers) {
         if (o.type == Genki.currentAnswers.type) { // only apply answers for same type!
           for (var a = document.querySelectorAll('.writing-zone-input'), i = 0, j = a.length; i < j; i++) {
-            a[i].value = Genki.currentAnswers.list[i];
+            if (/multi-select/.test(a[i].parentNode.className)) {
+              for (var x = a[i].parentNode.querySelectorAll('.insert-trigger'), y = 0, z = x.length; y < z; y++) {
+                if (x[y].innerHTML == Genki.currentAnswers.list[i]) {
+                  x[y].click();
+                  break;
+                }
+              }
+            } else {
+              a[i].value = Genki.currentAnswers.list[i];
+            }
           }
         }
         
@@ -1831,6 +1840,21 @@
       
       // set the value for the answer field
       input.value = answer;
+    },
+    
+    // selects the clicked answer for multi-choice input fields
+    selectAnswer : function (caller, alpha) {
+      var parent = (alpha ? caller.parentNode.parentNode.parentNode.parentNode : caller.parentNode.parentNode),
+          trigger = parent.querySelectorAll('.insert-trigger'), i = 0, j = trigger.length;
+      
+      // remove the underline for already selected triggers
+      for (; i < j; i++) trigger[i].className = 'insert-trigger';
+      
+      // underline clicked trigger
+      caller.className += ' selected-trigger';
+      
+      // set value for answer field
+      parent.querySelector('.writing-zone-input').value = caller.innerHTML;
     },
     
     // functions that check the value of input fields
