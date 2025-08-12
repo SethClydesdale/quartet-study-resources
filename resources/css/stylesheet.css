@@ -2248,6 +2248,45 @@ ruby.standard rt, .underline-field > span ruby rt {
   user-select:none;
 }
 
+/* multi-select input styles */
+.fill-quiz .writing-zone.multi-select {
+  vertical-align:middle;
+}
+
+.writing-zone.multi-select .writing-zone-input {
+  display:none;
+}
+
+.selected-trigger {
+  color:#0096D6;
+  font-weight:bold;
+  border-bottom:2px solid #0096D6;
+  text-decoration:none !important;
+}
+
+.quiz-over .writing-zone.multi-select [data-mistakes="0"] + .problem-hint .selected-trigger {
+  color:#080;
+  border-color:#080;
+} 
+
+.quiz-over .writing-zone.multi-select [data-mistakes="1"] + .problem-hint .selected-trigger {
+  color:#F00;
+  border-color:#F00;
+}
+
+.quiz-over .writing-zone.multi-select [data-mistakes="1"] + .problem-hint .insert-trigger {
+  color:#F00;
+}
+
+.quiz-over .writing-zone.multi-select [data-mistakes="1"] + .problem-hint {
+  display:inline !important;
+  height:auto !important;
+}
+
+.quiz-over .writing-zone.multi-select:hover [data-mistakes="1"] + .problem-hint + .problem-answer {
+  visibility:visible;
+}
+
 
 /* image list */
 .image-list > span {
@@ -2459,7 +2498,6 @@ ruby.standard rt, .underline-field > span ruby rt {
   border:2px solid #DDD;
   border-radius:30px;
   margin:0;
-  margin-top:6px;
   padding:6px;
   list-style-type:lower-alpha;
   list-style-position:inside;
