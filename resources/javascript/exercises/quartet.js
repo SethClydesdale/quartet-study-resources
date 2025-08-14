@@ -192,6 +192,12 @@ window.GenkiExercises = [
   'lesson-5/workbook-17|初級文法チェック6：<span class="ja">条件文　～たら／～と／～ば／～なら・問題1</span><span class="en">Conditional Sentences ～たら／～と／～ば／～なら・Problem 1</span>|p.95',
   'lesson-5/workbook-19|漢字チャレンジ9：<span class="ja">反対語</span><span class="en">Antonyms</span>|p.107',
   'lesson-5/workbook-20|漢字チャレンジ10：<span class="ja">同音異義語</span><span class="en">Homonyms</span>|p.108',
+  
+  // Lesson 6
+  'lesson-6/vocab-1|単語：読み物1・その1|別冊p.23',
+  'lesson-6/vocab-2|単語：読み物1・その2|別冊p.23',
+  'lesson-6/vocab-3|単語：読み物2・その1|別冊p.24',
+  'lesson-6/vocab-4|単語：読み物2・その2|別冊p.25',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
