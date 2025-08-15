@@ -838,7 +838,7 @@ Genki.jisho = {
     { ja : "書き順|かきじゅん", en : "stroke order", v : 'N', l : "Quartet: L5-漢字表" },
     { ja : "学生時代|がくせいじだい", en : "school days", v : 'N', l : "Quartet: L1-読み物2" },
     { ja : "重なる|かさなる", en : "to overlap; to be piled up", v : 'N', l : "Quartet: L4-読み物1" },
-    { ja : "過剰(な)|過剰(な)", en : "excessive", v : 'ANa', l : "Quartet: L6-読み物1" },
+    { ja : "過剰(な)|かじょう(な)", en : "excessive", v : 'ANa', l : "Quartet: L6-読み物1" },
     { ja : "家族連れ|かぞくづれ", en : "family; taking the family along", v : 'N', l : "Quartet: L3-読み物2" },
     { ja : "かたい", en : "hard; firm", v : 'A', l : "Quartet: L1-読み物1" },
     { ja : "片付け|かたづけ", en : "cleaning up", v : 'N', l : "Quartet: L4-漢字表" },
