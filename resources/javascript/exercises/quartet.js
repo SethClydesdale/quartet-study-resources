@@ -198,7 +198,11 @@ window.GenkiExercises = [
   'lesson-6/vocab-2|単語：読み物1・その2|別冊p.23',
   'lesson-6/vocab-3|単語：読み物2・その1|別冊p.24',
   'lesson-6/vocab-4|単語：読み物2・その2|別冊p.25',
-
+  'lesson-6/kanji-1|漢字の練習：読み方|別冊p.53-57, 63',
+  'lesson-6/kanji-2|漢字の練習：意味|別冊p.53-57, 63',
+  'lesson-6/kanji-3|漢字の練習：書き順|別冊p.53-57, 63',
+  //'lesson-6/kanji-vocab-1|漢字の単語：門、級、鮮、看、板、豊、富、定、増、帯、列、置、順、呼|別冊p.53-',
+  
   // Appendix
   'appendix/vocabulary-index|単語索引',
   'appendix/grammar-index|文法索引',
