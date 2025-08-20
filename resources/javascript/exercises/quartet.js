@@ -201,7 +201,10 @@ window.GenkiExercises = [
   'lesson-6/kanji-1|漢字の練習：読み方|別冊p.53-57, 63',
   'lesson-6/kanji-2|漢字の練習：意味|別冊p.53-57, 63',
   'lesson-6/kanji-3|漢字の練習：書き順|別冊p.53-57, 63',
-  //'lesson-6/kanji-vocab-1|漢字の単語：門、級、鮮、看、板、豊、富、定、増、帯、列、置、順、呼|別冊p.53-',
+  'lesson-6/kanji-vocab-1|漢字の単語：投、包、雑、誌、資、源、燃、局、商、袋、疑、丁、寧|別冊p.53-54',
+  'lesson-6/kanji-vocab-2|漢字の単語：賛、反、制、進、関、状、第、齢、超、係、吸、収、効|別冊p.54-55',
+  'lesson-6/kanji-vocab-3|漢字の単語：抵、抗、恥、周、失、敗、恐、躍、可、能、述、響、混、乱|別冊p.55-57',
+  'lesson-6/kanji-vocab-4|漢字の単語：論、嫌、輩、張、追、逃、退、適、許、訓、詞、誤、警|別冊p.57, 63',
   
   // Appendix
   'appendix/vocabulary-index|単語索引',
