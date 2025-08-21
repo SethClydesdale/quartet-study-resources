@@ -205,6 +205,7 @@ window.GenkiExercises = [
   'lesson-6/kanji-vocab-2|漢字の単語：賛、反、制、進、関、状、第、齢、超、係、吸、収、効|別冊p.54-55',
   'lesson-6/kanji-vocab-3|漢字の単語：抵、抗、恥、周、失、敗、恐、躍、可、能、述、響、混、乱|別冊p.55-57',
   'lesson-6/kanji-vocab-4|漢字の単語：論、嫌、輩、張、追、逃、退、適、許、訓、詞、誤、警|別冊p.57, 63',
+  'lesson-6/kaiwa-1|会話：寮のキッチンの使い方|p.191-192',
   
   // Appendix
   'appendix/vocabulary-index|単語索引',
