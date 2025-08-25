@@ -207,6 +207,7 @@ Genki.jisho = {
     { ja : "イベント", en : "event", v : 'N', l : "Quartet: L2-読み物1" },
     { ja : "いやいや", en : "unwillingly; reluctantly", v : 'Adv', l : "Quartet: L6-読み物2" },
     { ja : "嫌がる|いやがる", en : "to dislike; to be unwilling to do", v : 'u-Vt', l : "Quartet: L6-漢字表" },
+    { ja : "嫌な思いをする|いやなおもいをする", en : "to be offended", v : 'Exp', l : "Quartet: L6-聴解2" },
     { ja : "飲食店|いんしょくてん", en : "restaurant", v : 'N', l : "Quartet: L3-読み物2" },
     { ja : "インターンシップ", en : "internship", v : 'N', l : "Quartet: L2-読み物1" },
     
@@ -1231,6 +1232,7 @@ Genki.jisho = {
     { ja : "驚異|きょうい", en : "honorable defeat", v : "VN", l : "Quartet: L4-漢字表" },
     { ja : "居住地|きょじゅうち", en : "settlement", v : "N", l : "Quartet: L2-漢字表" },
     { ja : "極める|きわめる", en : "to master", v : "ru-Vt", l : "Quartet: L4-漢字表" },
+    { ja : "金属|きんぞく", en : "metal", v : "N", l : "Quartet: L6-聴解1" },
     
     // Tobira
     { ja : "聞いたところによると|きいたところによると", en : "according to what I've heard", v : "Phr", l : "Tobira: L10会1" },
@@ -2969,6 +2971,7 @@ Genki.jisho = {
     { ja : "像|ぞう", en : "elephant", v : "N", l : "Quartet: L3-漢字表" },
     { ja : "早期|そうき", en : "early (stage)", v : "N", l : "Quartet: L6-読み物2" },
     { ja : "相談に乗る|そうだんにのる", en : "to give advice; counsel", v : "Exp", l : "Quartet: L4-会話1" },
+    { ja : "粗大ごみ|そだいごみ", en : "bulky garbage", v : "N", l : "Quartet: L6-聴解1" },
     { ja : "備える|そなえる", en : "to prepare", v : "ru-Vt", l : "Quartet: L2-漢字表" },
     { ja : "ソフトドリンク", en : "non-alcholic drinks", v : "N", l : "Quartet: L3-読み物2" },
     { ja : "その代わり|そのかわり", en : "instead", v : "Conj", l : "Quartet: L2-聴解" },
