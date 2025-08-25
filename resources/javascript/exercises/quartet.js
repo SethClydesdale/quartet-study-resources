@@ -207,6 +207,10 @@ window.GenkiExercises = [
   'lesson-6/kanji-vocab-4|漢字の単語：論、嫌、輩、張、追、逃、退、適、許、訓、詞、誤、警|別冊p.57, 63',
   'lesson-6/kaiwa-1|会話：寮のキッチンの使い方|p.191-192',
   'lesson-6/kaiwa-2|会話：ゴミ出しのルール|p.196-198',
+  'lesson-6/chokai-1|聴解：ゴミの分別|p.202',
+  'lesson-6/chokai-2|聴解：注意する時の言い方|p.203',
+  'lesson-6/workbook-1|読み物1：〇×チェック|p.69; A',
+  'lesson-6/workbook-2|読み物1：読みのストラテジーの練習|p.69; A',
   
   // Appendix
   'appendix/vocabulary-index|単語索引',
