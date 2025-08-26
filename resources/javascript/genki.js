@@ -1616,6 +1616,12 @@
               
               if (audio) {
                 Genki.chokai.highlight(audio.id, Genki.chokai.time[audio.id]);
+                
+                // reset sticky audio elements
+                if (Genki.stickyAudio.target && Genki.stickyAudio.target.id == audio.id) {
+                  Genki.stickyAudio.static = audio.parentNode;
+                  Genki.stickyAudio.target = audio;
+                }
               }
             }
           }
