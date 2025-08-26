@@ -2506,7 +2506,7 @@ ruby.standard rt, .underline-field > span ruby rt {
 .alpha-selection {
   background:#FFF;
   border:2px solid #DDD;
-  border-radius:30px;
+  border-radius:10px;
   margin:0;
   padding:6px;
   list-style-type:lower-alpha;
@@ -2518,6 +2518,11 @@ ruby.standard rt, .underline-field > span ruby rt {
   margin-right:20px;
 }
 .alpha-selection li:last-child { margin-right:0; }
+
+.trigger-break .alpha-selection li {
+  float:none;
+  text-align:left;
+}
 
 /* img problem layout */
 .img-problem { margin-top:5px; }
