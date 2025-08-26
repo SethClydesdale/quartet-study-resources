@@ -210,7 +210,11 @@ window.GenkiExercises = [
   'lesson-6/chokai-1|聴解：ゴミの分別|p.202',
   'lesson-6/chokai-2|聴解：注意する時の言い方|p.203',
   'lesson-6/workbook-1|読み物1：〇×チェック|p.69; A',
-  'lesson-6/workbook-2|読み物1：読みのストラテジーの練習|p.69; A',
+  'lesson-6/workbook-2|読み物1：読みのストラテジーの練習|p.69; B',
+  'lesson-6/workbook-3|読み物1：内容質問|p.70; C',
+  'lesson-6/workbook-4|読み物2：〇×チェック|p.71; A',
+  'lesson-6/workbook-5|読み物2：読みのストラテジーの練習|p.71; B',
+  'lesson-6/workbook-6|読み物2：内容質問|p.72; C',
   
   // Appendix
   'appendix/vocabulary-index|単語索引',
