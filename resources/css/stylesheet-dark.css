@@ -7,7 +7,7 @@
 */
 
 /* 1. FONT COLORS */
-.spoiler { color:#000; }
+.spoiler, .spoiler ruby rt { color:#000; }
 
 input[type="text"]::placeholder, input[type="number"]::placeholder, textarea::placeholder, input.writing-zone-input::placeholder, .fill-quiz .writing-zone-input::placeholder {
   color:#444;
