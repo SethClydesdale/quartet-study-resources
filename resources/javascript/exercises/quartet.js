@@ -215,6 +215,12 @@ window.GenkiExercises = [
   'lesson-6/workbook-4|読み物2：〇×チェック|p.71; A',
   'lesson-6/workbook-5|読み物2：読みのストラテジーの練習|p.71; B',
   'lesson-6/workbook-6|読み物2：内容質問|p.72; C',
+  'lesson-6/workbook-7|基本練習：～(という)わけではない|p.73',
+  'lesson-6/workbook-8|基本練習：～(の)ではない(だろう)か|p.73-74',
+  'lesson-6/workbook-9|基本練習：～がる|p.74',
+  'lesson-6/workbook-10|基本練習：～(よ)うとする|p.75; 1',
+  'lesson-6/workbook-11|基本練習：～(よ)うとしない|p.75; 2',
+  'lesson-6/workbook-12|基本練習：～まま|p.75-76',
   
   // Appendix
   'appendix/vocabulary-index|単語索引',
