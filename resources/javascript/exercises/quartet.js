@@ -221,6 +221,12 @@ window.GenkiExercises = [
   'lesson-6/workbook-10|基本練習：～(よ)うとする|p.75; 1',
   'lesson-6/workbook-11|基本練習：～(よ)うとしない|p.75; 2',
   'lesson-6/workbook-12|基本練習：～まま|p.75-76',
+  'lesson-6/workbook-13|基本練習：～ように言う・その1|p.76; A',
+  'lesson-6/workbook-14|基本練習：～ように言う・その2|p.77; B',
+  'lesson-6/workbook-15|基本練習：～ほど|p.77',
+  'lesson-6/workbook-16|まとめの練習：問題1|p.78',
+  'lesson-6/workbook-17|まとめの練習：問題2・わざわざ and せっかく|p.78',
+  'lesson-6/workbook-18|まとめの練習：問題3|p.79',
   
   // Appendix
   'appendix/vocabulary-index|単語索引',
