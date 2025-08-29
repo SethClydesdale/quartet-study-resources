@@ -227,7 +227,11 @@ window.GenkiExercises = [
   'lesson-6/workbook-16|まとめの練習：問題1|p.78',
   'lesson-6/workbook-17|まとめの練習：問題2・わざわざ and せっかく|p.78',
   'lesson-6/workbook-18|まとめの練習：問題3|p.79',
-  
+  'lesson-6/workbook-19|初級文法チェック7：<span class="ja">助詞「は」と「が」・問題1</span><span class="en">Particles は and が・Problem 1</span>|p.97-98',
+  'lesson-6/workbook-20|初級文法チェック7：<span class="ja">助詞「は」と「が」・問題2</span><span class="en">Particles は and が・Problem 2</span>|p.97-98',
+  'lesson-6/workbook-21|漢字チャレンジ11：部首「しんにょう（<span class="rad">⻌</span>）」|p.109',
+  'lesson-6/workbook-22|漢字チャレンジ12：部首「ごんべん（<span class="rad"></span>）」|p.110',
+
   // Appendix
   'appendix/vocabulary-index|単語索引',
   'appendix/grammar-index|文法索引',
