@@ -231,6 +231,11 @@ window.GenkiExercises = [
   'lesson-6/workbook-20|初級文法チェック7：<span class="ja">助詞「は」と「が」・問題2</span><span class="en">Particles は and が・Problem 2</span>|p.97-98',
   'lesson-6/workbook-21|漢字チャレンジ11：部首「しんにょう（<span class="rad">⻌</span>）」|p.109',
   'lesson-6/workbook-22|漢字チャレンジ12：部首「ごんべん（<span class="rad"></span>）」|p.110',
+  
+  // Lesson 7
+  'lesson-7/vocab-1|単語：読み物1・その1|別冊p.2',
+  'lesson-7/vocab-2|単語：読み物1・その2|別冊p.2',
+  'lesson-7/vocab-3|単語：読み物1・その3|別冊p.2-3',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
