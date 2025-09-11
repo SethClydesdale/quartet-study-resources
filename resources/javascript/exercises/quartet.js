@@ -242,6 +242,11 @@ window.GenkiExercises = [
   'lesson-7/kanji-1|漢字の練習：読み方|別冊p.34-38, 64',
   'lesson-7/kanji-2|漢字の練習：意味|別冊p.34-38, 64',
   'lesson-7/kanji-3|漢字の練習：書き順|別冊p.34-38, 64',
+  'lesson-7/kanji-vocab-1|漢字の単語：壁、厚、濃、択、肢、裕、差、落、刺、激、与、逆|別冊p.34-35',
+  'lesson-7/kanji-vocab-2|漢字の単語：組、遊、束、破、膨、根、島、展、似|別冊p.35-36',
+  'lesson-7/kanji-vocab-3|漢字の単語：勇、飛、満、孤、耳、絡、趣、共、没、頭、脱|別冊p.36-37',
+  'lesson-7/kanji-vocab-4|漢字の単語：攻、素、望、珍、戻、速、冒、況、各、策|別冊p.37-38',
+  'lesson-7/kanji-vocab-5|漢字の単語：努、徐、築、泳、浅、渡、浴、湿、拾、拡、捕、損、拍|別冊p.38, 64',
 
   // Appendix
   'appendix/vocabulary-index|単語索引',
