@@ -15,6 +15,11 @@
       // [NOT USED CURRENTLY; GSR remnant] edition: [OPTIONAL] restricts the announcement to a specific edition, possible values are: 3rd || 2nd, announcements are global by default
       msg : [
         {
+          date : '9/11/25',
+          content : "<strong class='t-red'>IMPORTANT:</strong> Development on Quartet Study Resources has been terminated. Please <a href=\"https://ko-fi.com/post/Important-Information-Regarding-Genki-and-Quartet-D1D21L4B1S\" target=\"_blank\">click here</a> for more details."
+        },
+        
+        {
           content : "Quartet Study Resources is currently under development, so not all exercises are available yet. We'll be adding new content periodically, however, so be sure to check back often! You can follow our development progress <a href='https://github.com/SethClydesdale/quartet-study-resources/issues/1' target='_blank'>here</a>."
         },
       
@@ -123,7 +128,7 @@
         
         // Live Stream announcement (only shows when stream is active)
         // only execute on the online version, since checking twitch state offline doesn't work due to CORS policy
-        if (window.location.protocol != 'file:') {
+        /*if (window.location.protocol != 'file:') {
           // caches streaming state for 30 minutes to reduce amount of requests
           var cacheState = function (state) {
             if (storageOK) {
@@ -195,7 +200,7 @@
               document.body.appendChild(stream);
             });
           }
-        }
+        }*/
       }
     };
     
