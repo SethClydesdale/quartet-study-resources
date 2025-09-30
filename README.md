@@ -1,5 +1,5 @@
 ﻿# Quartet Study Resources
-Quartet Study Resources is a website that offers a vast collection of exercises for practicing what is taught in [Quartet: Intermediate Japanese Across the Four Language Skills](https://quartet.japantimes.co.jp/en/). Much like [Genki Study Resources](https://github.com/SethClydesdale/genki-study-resources), this was created to help aid those self-studying with Quartet, and if you've used its predecessor you should feel right at home! Choose one of the links below to begin testing the Japanese you've learned in Quartet!
+Quartet Study Resources is a website that offers exercises for practicing what is taught in [Quartet: Intermediate Japanese Across the Four Language Skills](https://quartet.japantimes.co.jp/en/). Much like [Genki Study Resources](https://github.com/SethClydesdale/genki-study-resources), this was created to help aid those self-studying with Quartet, and if you've used its predecessor you should feel right at home! Choose one of the links below to begin!
 
 
 **Online Version:** https://sethclydesdale.github.io/quartet-study-resources/
@@ -89,7 +89,7 @@ If you have any suggestions, feedback, questions, or bugs to report, feel free t
 
 ### Special Thanks
 Quartet Study Resources was made possible thanks to...
-- [The Japan Times](https://bookclub.japantimes.co.jp/en/), Tadashi Sakamoto, Akemi Yasui, Yuriko Ide, Miyuki Doi, and Hideki Hamada for Quartet: Intermediate Japanese Across the Four Language Skills.
+- ~~[The Japan Times](https://bookclub.japantimes.co.jp/en/)~~, Tadashi Sakamoto, Akemi Yasui, Yuriko Ide, Miyuki Doi, and Hideki Hamada for Quartet: Intermediate Japanese Across the Four Language Skills.
 - [Jeff and William](https://x.com/SethC1995/status/1871285608607519215) for gifting me the Quartet textbooks.
 - Bazilio de Oliveira and an Anonymous donor for gifting me the Quartet workbooks.
 - [Patrick Roberts](https://github.com/patrickroberts) for [his help with an algorithm](https://stackoverflow.com/a/59337819/12502093) that helped make mixed kana/kanji answers possible in written quizzes.

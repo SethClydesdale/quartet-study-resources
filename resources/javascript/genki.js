@@ -508,7 +508,7 @@
       if (/\!GRI/.test(o.info)) {
         o.info = o.info.replace(/\{.*?\}/g, function (match) {
           var data = match.slice(1, match.length - 1).split('|'), hint, flag, sub, width, placeholder;
-          //return '<a href="' + getPaths() + 'lessons/appendix/grammar-index/' + Genki.local + '#' + data[2] + '" target="_blank"' + ((Genki.local && !Genki.debug) ? '' : ' onclick="Genki.getGrammarPoint(this, \'' + data[2] + '\'); return false;"') + '>' + data[1] + '</a>';
+          return '<a href="' + getPaths() + 'lessons/appendix/grammar-index/' + Genki.local + '#' + data[2] + '" target="_blank"' + ((Genki.local && !Genki.debug) ? '' : ' onclick="Genki.getGrammarPoint(this, \'' + data[2] + '\'); return false;"') + '>' + data[1] + '</a>';
           return data[1];
         });
       }
@@ -2335,7 +2335,7 @@
         var main = 
           '<div id="link-list" class="normal-block indent-block">'+
             '<div><a id="link-home" class="button" href="' + (getPaths() == '' ? '#main-title' : getPaths() + Genki.local) + '"><i class="fa">' + (getPaths() == '' ? '&#xf062;' : '&#xf015;') + '</i>' + (getPaths() == '' ? '<span class="en">Top</span><span class="ja">トップページ</span>' : '<span class="en">Home</span><span class="ja">トップページ</span>') + '</a></div>'+
-            //'<div><a id="link-grammar" href="' + getPaths() + 'lessons/appendix/grammar-index/' + Genki.local + '"><i class="fa">&#xf02d;</i><span class="en">Grammar Index</span><span class="ja">文法索引</span></a></a></div>'+
+            '<div><a id="link-grammar" href="' + getPaths() + 'lessons/appendix/grammar-index/' + Genki.local + '"><i class="fa">&#xf02d;</i><span class="en">Grammar Index</span><span class="ja">文法索引</span></a></a></div>'+
             '<div><a id="link-anki" href="' + getPaths() + 'help/anki-decks/' + Genki.local + '"><i class="fa">&#xf005;</i><span class="en">Anki Decks</span><span class="ja">Ankiのデッキ</span></a></div>'+
             '<div><a id="link-help" href="' + getPaths() + 'help/' + Genki.local + '"><i class="fa">&#xf059;</i><span class="en">Help &amp; FAQ</span><span class="ja">FAQ</span></a></div>'+
             '<div><a id="link-report" href="' + getPaths() + 'report/' + Genki.local + '"><i class="fa">&#xf188;</i><span class="en">Reports &amp; Feedback</span><span class="ja">フィードバックを送る</span></a></div>'+
