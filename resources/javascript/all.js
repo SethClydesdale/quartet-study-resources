@@ -15,6 +15,11 @@
       // [NOT USED CURRENTLY; GSR remnant] edition: [OPTIONAL] restricts the announcement to a specific edition, possible values are: 3rd || 2nd, announcements are global by default
       msg : [
         {
+          date : '9/29/25',
+          content : "<strong class='t-red'>IMPORTANT:</strong> If any exercises are missing, it is because The Japan Times requested their removal. Please <a href=\"https://ko-fi.com/post/Update-Regarding-Genki-and-Quartet-Study-Resources-Y8Y21M1F5E\" target=\"_blank\">click here</a> for more details."
+        },
+        
+        {
           date : '9/11/25',
           content : "<strong class='t-red'>IMPORTANT:</strong> Development on Quartet Study Resources has been terminated. Please <a href=\"https://ko-fi.com/post/Important-Information-Regarding-Genki-and-Quartet-D1D21L4B1S\" target=\"_blank\">click here</a> for more details."
         },

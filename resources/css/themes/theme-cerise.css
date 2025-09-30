@@ -17,7 +17,7 @@
   color:#E6237B !important;
 }
 
-.button, a.button, header, #announcement, #quick-nav-list li:before, #quick-nav-list a.sub-section-button, #quick-search-results li[data-lesson]:before, #quiz-info, #exercise-list .main-title, #exercise-list li a[data-page]:hover:after, #exercise-list li a[data-page]:focus:after, #quiz-progress-bar, #complete-banner, #genki-modal-header, .genki_pseudo_radio:after, #quick-jisho-toggle, .quick-jisho-header, #appendix-tool .page-data, .grammar-index .num, .star, .tango:before, .label-color, .page-data, .color-tag {
+.button, a.button, header, #announcement, #quick-nav-list li:before, #quick-nav-list a.sub-section-button, #quick-search-results li[data-lesson]:before, #quiz-info, #exercise-list .main-title, #exercise-list li a[data-page]:hover:after, #exercise-list li a[data-page]:focus:after, #quiz-progress-bar, #complete-banner, #genki-modal-header, .genki_pseudo_radio:after, #quick-jisho-toggle, .quick-jisho-header, #appendix-tool .page-data, .grammar-index .num, .star, .tango:before, .label-color, .page-data, .color-tag, .setsumei .first:after, .setsumei .second:after, .setsumei .third:after {
   background-color:#E6237B;
 }
 
@@ -64,7 +64,7 @@ a:focus img, .quiz-item.markedItem, .text-selection-mode .quiz-multi-answer {
   background-color:#D6136B;
 }
 
-#quick-search-results li[data-lesson]:before, #exercise-list li a[data-page]:hover:after, #exercise-list li a[data-page]:focus:after, .page-data {
+#quick-search-results li[data-lesson]:before, #exercise-list li a[data-page]:hover:after, #exercise-list li a[data-page]:focus:after, .page-data, .setsumei .first:after, .setsumei .second:after, .setsumei .third:after {
   border-color:#D6136B;
 }
 
