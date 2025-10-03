@@ -1,0 +1,435 @@
+﻿<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#" class="lang-en">
+  <head>
+    <meta charset="UTF-8">
+    <title>漢字の練習：書き順 - 第6課 | Quartet Study Resources</title>
+    <meta name="title" content="漢字の練習：書き順 - 第6課 | Quartet Study Resources">
+    <meta name="twitter:title" content="漢字の練習：書き順 - 第6課 | Quartet Study Resources">
+    <meta property="og:title" content="漢字の練習：書き順 - 第6課 | Quartet Study Resources">
+    <meta name="description" content="Practice drawing each kanji by following the stroke order.">
+    <meta property="og:description" content="Practice drawing each kanji by following the stroke order.">
+    <link rel="shortcut icon" type="image/x-icon" href="../../../resources/images/quartet.ico">
+
+    <meta name="keywords" content="Quartet, page 53-57, 63, japanese, quizzes, exercises" lang="en">
+    <meta name="language" content="en">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:site_name" content="sethclydesdale.github.io">
+    <meta property="og:url" content="https://sethclydesdale.github.io/quartet-study-resources/lessons/lesson-6/kanji-3/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://sethclydesdale.github.io/quartet-study-resources/resources/images/quartet-thumb.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:creator" content="@SethC1995">
+
+    <link rel="stylesheet" href="../../../resources/css/stylesheet.min.css">
+    <script src="../../../resources/javascript/head.min.js"></script>
+    <script src="../../../resources/javascript/ga.js" async></script>
+  </head>
+
+  <body>
+    
+    <header>
+      <h1><a href="../../../" id="home-link">Quartet Study Resources</a></h1>
+      <a id="fork-me" href="https://github.com/SethClydesdale/quartet-study-resources">Fork Me</a>
+    </header>
+
+    <div id="announcement">
+      <div id="announce-inner">
+        <h3><i class="fa">&#xf0a1;</i> News and Info</h3>
+        <div id="announce-list">
+          <div id="announcement-controls" style="display:none;">
+            <button class="button announce-controls button-left" onclick="GenkiAnn.next(-1, true);"><i class="fa">&#xf060;</i></button>
+            <button class="button announce-controls button-right" onclick="GenkiAnn.next(+1, true);"><i class="fa">&#xf061;</i></button>
+          </div>
+          <noscript><div class="announcement">Please enable JavaScript to get the latest news and info.</div></noscript>
+        </div>
+      </div>
+    </div>
+    
+    <div id="content">
+      <div class="content-block">
+        <h2 class="title center" id="notice">This Page Has Been Removed</h2>
+        
+        <div class="center" style="font-size:16px;"><i class="fa" style="font-size:62px;">&#xf119;</i></div>
+        
+        <p class="center" style="font-size:16px;">This page has been taken down at the request of The Japan Times. You can learn more about why this page isn't available anymore <a href="https://ko-fi.com/post/Update-Regarding-Genki-and-Quartet-Study-Resources-Y8Y21M1F5E" target="_blank">here</a>.</p>
+        
+        <p class="center" style="font-size:16px;">If you would like to contest this decision, please considering respectfully reaching out to The Japan Times to let them know how valuable this resource was to your Japanese studies and their textbooks. You can contact them directly on their official website <a href="https://bookclub.japantimes.co.jp/en/contact/" target="_blank">here</a>.</p>
+        
+        <p class="center" style="font-size:16px;">Thank you for your support and I am very sorry for this inconvenience.</p>
+        <br>
+        <h3 class="sub-title" id="actions">Website Actions</h3>
+        <div id="link-list" class="normal-block indent-block">
+          <span><a id="link-anki" href="../../../"><i class="fa">&#xf112;</i>Return to the Homepage</a></span>
+          <span><a id="link-settings" href="#" download="Quartet Exercise Score Data.txt"><i class="fa">&#xf019;</i>Download Your Exercise Score Data</a></span>
+          <script>document.getElementById('link-settings').href = 'data:text/plain;charset=utf-8,' + (storageOK && localStorage.QuartetResults ? encodeURIComponent(localStorage.QuartetResults.replace(/\n/g, '\r\n')) : '');</script>
+        </div><br>
+    </div>
+      <div id="exercise" class="content-block" style="display:none;">
+        <div id="quiz-result"></div>
+        <div id="quiz-zone" class="clear"></div>
+        <div id="quiz-timer" class="center"></div>
+      </div>
+    </div>
+    
+    <footer class="clear">
+      <ul class="footer-left">
+        <li><a href="../../../" id="footer-home">Home</a></li>
+        <li><a href="../../../privacy/">Privacy</a></li>
+        <li><a href="../../../report/">Report a Bug</a></li>
+        <li><a href="../../../help/">Help</a></li>
+        <li><a href="../../../donate/">Donate</a></li>
+      </ul>
+      
+      <ul class="footer-right">
+        <li>Created by <a href="https://github.com/SethClydesdale">Seth Clydesdale</a> and the <a href="https://github.com/SethClydesdale/quartet-study-resources/graphs/contributors">GitHub Community</a></li>
+      </ul>
+    </footer>
+    
+    <script src="../../../resources/javascript/dragula.min.js"></script>
+    <script src="../../../resources/javascript/easytimer.min.js"></script>
+    <script src="../../../resources/javascript/kanji-canvas.min.js"></script>
+    <script src="../../../resources/javascript/ref-patterns/kanji.js"></script>
+    <script src="../../../resources/javascript/exercises/quartet.min.js"></script>
+    <script src="../../../resources/javascript/genki.min.js"></script>
+    <script src="../../../resources/javascript/all.min.js"></script>
+    <script>Genki.generateQuiz({
+      format : 'stroke',
+      type : ['stroke', 'drawing'],
+      info : [Genki.lang.std_stroke_order, Genki.lang.std_drawing],
+      
+      columns : 7,
+      quizlet : [ 
+        {
+          kanji : '投',
+          strokes : 7,
+          order : '223'
+        },
+        
+        {
+          kanji : '包',
+          strokes : 5,
+          order : '224'
+        },
+        
+        {
+          kanji : '雑',
+          strokes : 14,
+          order : '225'
+        },
+        
+        {
+          kanji : '誌',
+          strokes : 14,
+          order : '226'
+        },
+        
+        {
+          kanji : '資',
+          strokes : 13,
+          order : '227'
+        },
+        
+        {
+          kanji : '源',
+          strokes : 13,
+          order : '228'
+        },
+        
+        {
+          kanji : '燃',
+          strokes : 16,
+          order : '229'
+        },
+        
+        {
+          kanji : '局',
+          strokes : 7,
+          order : '230'
+        },
+        
+        {
+          kanji : '商',
+          strokes : 11,
+          order : '231'
+        },
+        
+        {
+          kanji : '袋',
+          strokes : 11,
+          order : '232'
+        },
+        
+        {
+          kanji : '疑',
+          strokes : 14,
+          order : '233'
+        },
+        
+        {
+          kanji : '丁',
+          strokes : 2,
+          order : '234'
+        },
+        
+        {
+          kanji : '寧',
+          strokes : 14,
+          order : '235'
+        },
+        
+        {
+          kanji : '賛',
+          strokes : 15,
+          order : '236'
+        },
+        
+        {
+          kanji : '反',
+          strokes : 4,
+          order : '237'
+        },
+        
+        {
+          kanji : '制',
+          strokes : 8,
+          order : '238'
+        },
+        
+        {
+          kanji : '進',
+          strokes : 11,
+          order : '239'
+        },
+        
+        {
+          kanji : '関',
+          strokes : 14,
+          order : '240'
+        },
+        
+        {
+          kanji : '状',
+          strokes : 7,
+          order : '241'
+        },
+        
+        {
+          kanji : '第',
+          strokes : 11,
+          order : '242'
+        },
+        
+        {
+          kanji : '齢',
+          strokes : 17,
+          order : '243'
+        },
+        
+        {
+          kanji : '超',
+          strokes : 12,
+          order : '244'
+        },
+        
+        {
+          kanji : '係',
+          strokes : 9,
+          order : '245'
+        },
+        
+        {
+          kanji : '吸',
+          strokes : 6,
+          order : '246'
+        },
+        
+        {
+          kanji : '収',
+          strokes : 4,
+          order : '247'
+        },
+        
+        {
+          kanji : '効',
+          strokes : 8,
+          order : '248'
+        },
+        
+        {
+          kanji : '抵',
+          strokes : 8,
+          order : '249'
+        },
+        
+        {
+          kanji : '抗',
+          strokes : 7,
+          order : '250'
+        },
+        
+        {
+          kanji : '恥',
+          strokes : 10,
+          order : '251'
+        },
+        
+        {
+          kanji : '周',
+          strokes : 8,
+          order : '252'
+        },
+        
+        {
+          kanji : '失',
+          strokes : 5,
+          order : '253'
+        },
+        
+        {
+          kanji : '敗',
+          strokes : 11,
+          order : '254'
+        },
+        
+        {
+          kanji : '恐',
+          strokes : 10,
+          order : '255'
+        },
+        
+        {
+          kanji : '躍',
+          strokes : 21,
+          order : '256'
+        },
+        
+        {
+          kanji : '可',
+          strokes : 5,
+          order : '257'
+        },
+        
+        {
+          kanji : '能',
+          strokes : 10,
+          order : '258'
+        },
+        
+        {
+          kanji : '述',
+          strokes : 8,
+          order : '259'
+        },
+        
+        {
+          kanji : '影',
+          strokes : 15,
+          order : '260'
+        },
+        
+        {
+          kanji : '響',
+          strokes : 20,
+          order : '261'
+        },
+        
+        {
+          kanji : '混',
+          strokes : 11,
+          order : '262'
+        },
+        
+        {
+          kanji : '乱',
+          strokes : 7,
+          order : '263'
+        },
+        
+        {
+          kanji : '論',
+          strokes : 15,
+          order : '264'
+        },
+        
+        {
+          kanji : '嫌',
+          strokes : 13,
+          order : '265'
+        },
+        
+        {
+          kanji : '輩',
+          strokes : 15,
+          order : '266'
+        },
+        
+        {
+          kanji : '張',
+          strokes : 11,
+          order : '267'
+        },
+        
+        {
+          kanji : '追',
+          strokes : 9,
+          order : '318'
+        },
+        
+        {
+          kanji : '逃',
+          strokes : 9,
+          order : '319'
+        },
+        
+        {
+          kanji : '途',
+          strokes : 10,
+          order : '320'
+        },
+        
+        {
+          kanji : '退',
+          strokes : 9,
+          order : '321'
+        },
+        
+        {
+          kanji : '適',
+          strokes : 14,
+          order : '322'
+        },
+        
+        {
+          kanji : '許',
+          strokes : 11,
+          order : '323'
+        },
+        
+        {
+          kanji : '訓',
+          strokes : 10,
+          order : '324'
+        },
+        
+        {
+          kanji : '詞',
+          strokes : 12,
+          order : '325'
+        },
+        
+        {
+          kanji : '誤',
+          strokes : 14,
+          order : '326'
+        },
+        
+        {
+          kanji : '警',
+          strokes : 19,
+          order : '327'
+        }
+      ]
+    });</script>
+  </body>
+</html>
