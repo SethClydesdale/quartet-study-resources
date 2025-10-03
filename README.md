@@ -77,10 +77,6 @@ If you have any suggestions, feedback, questions, or bugs to report, feel free t
 
 ##### Websites
 - [Quartet Official Website](https://quartet.japantimes.co.jp/en/)
-- [Quartet Grammar Index](https://sethclydesdale.github.io/quartet-study-resources/lessons/appendix/grammar-index/) (for reviewing Quartet grammar points)
-- [Tobira Grammar Index](https://sethclydesdale.github.io/tobira-study-resources/lessons/appendix/grammar-index/) (for supplementing Quartet grammar)
-- [Genki Grammar Index](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/appendix/grammar-index/) (for refreshing on beginner grammar)
-- [Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/) (godsend for quickly looking up grammar points)
 - [Itazuraneko's Grammar Master Reference](https://kenrick95.github.io/itazuraneko/grammar/masterreference) (another great resource for looking up grammar points)
 - [Bunpro](https://bunpro.jp/grammar_points) (for their quick grammar look up)
 - [Imabi](http://www.imabi.net/) (very useful for more advanced learning/explanations)
