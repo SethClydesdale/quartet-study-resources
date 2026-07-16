@@ -4,8 +4,8 @@ This project has been discontinued at [the request of The Japan Times](https://k
 - [Progress Update #1](https://ko-fi.com/post/Project-Kantan-Progress-Update-I2I41ORTG4) [Nov 19, 2025]
 - [Progress Update #2](https://ko-fi.com/post/Kantan-Japanese-Progress-Update-2-P5P71QTZFD) [Dec 24, 2025]
 - [Progress Update #3](https://ko-fi.com/post/Kantan-Japanese-Progress-Update-3-Z8Z01U7DVR) [Feb 14, 2026]
-
-I expect to release this new website on GitHub either around April or May 2026, hopefully!
+- [Progress Update #4](https://ko-fi.com/post/Kantan-Japanese-Progress-Update-4-A0A11Y0IA1) [Apr 18, 2026]
+- [Progress Update #5](https://ko-fi.com/post/Kantan-Japanese-Progress-Update-5-I8K121Q9CD) [Jun 20, 2026]
 
 -----
  
