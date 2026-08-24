@@ -6,6 +6,7 @@ This project has been discontinued at [the request of The Japan Times](https://k
 - [Progress Update #3](https://ko-fi.com/post/Kantan-Japanese-Progress-Update-3-Z8Z01U7DVR) [Feb 14, 2026]
 - [Progress Update #4](https://ko-fi.com/post/Kantan-Japanese-Progress-Update-4-A0A11Y0IA1) [Apr 18, 2026]
 - [Progress Update #5](https://ko-fi.com/post/Kantan-Japanese-Progress-Update-5-I8K121Q9CD) [Jun 20, 2026]
+- [Progress Update #6](https://ko-fi.com/post/Kantan-Japanese-Progress-Update-6-R0H325ITMV) [Aug 23, 2026]
 
 -----
  
